@@ -6,10 +6,10 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Giuseppe Silvi
+title:            Giuseppe
 tagline:          'Electroacoustic Musician'
 description:      'Electroacoustic Musician'
-# url:              http://giuseppesilvi.com
+url:              http://giuseppesilvi.com
 
 author:
   name:           'Giuseppe Silvi'
