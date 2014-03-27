@@ -8,7 +8,8 @@ title: About
 </p>
 
 Giuseppe write electroacoustic music, play sax, teach electroacoustics system.
-He made music with [@paxxxc](https://twitter.com/paxxxc).
+
+Sometimes he made music with [@paxxxc](https://twitter.com/paxxxc).
 
 At this time he working on **S.T.ONE** a loudspeaker system.
 
