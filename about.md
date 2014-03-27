@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  *“citazione”*
+  *Vivere è restare svegli.* L. Nono
 </p>
 
 Giuseppe write electroacoustic music, play sax, teach electroacoustics system.
