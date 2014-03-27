@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  _Vivere è restare svegli_ - L. Nono
+  Vivere è restare svegli (L. Nono)
 </p>
 
 Giuseppe write electroacoustic music, play sax, teach electroacoustics system.
@@ -19,5 +19,7 @@ He use [GitHub](https://github.com/poole) to scratch ideas.
 ## BIO:
 
 a short BIO.
+
+----
 
 Thanks for reading!
