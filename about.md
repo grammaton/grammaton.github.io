@@ -11,9 +11,9 @@ Giuseppe write electroacoustic music, play sax, teach electroacoustics system.
 
 Sometimes he make music with [@paxxxc](https://twitter.com/paxxxc).
 
-At this time he is working on **S.T.ONE** a loudspeaker system and on *al nulla di cui essere felici* music for *Flute, Bari Sax and S.T.ONE*. The two projects will be presented on october 2014.
+At this time he is working on **S.T.ONE** a loudspeaker system and *“al nulla di cui essere felici”* music for *Flute, Bari Sax and S.T.ONE*. The two projects will be presented on october 2014.
 
-He use [GitHub](https://github.com/poole) to scratch ideas.
+He use [GitHub](https://github.com/grammaton) to scratch ideas.
 
 ----
 
