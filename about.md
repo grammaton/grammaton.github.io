@@ -5,6 +5,7 @@ title: About
 
 <p class="message">
   Vivere è restare svegli (L. Nono)
+  <!-- Why join the Navy, if you can be a pirate? - Steve Jobs -->
 </p>
 
 Giuseppe write electroacoustic music, play sax, teach electroacoustics system.
