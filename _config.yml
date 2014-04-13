@@ -27,3 +27,6 @@ github:
 ftp_host:         'giuseppesilvi.com'
 ftp_dir:          '/www.giuseppesilvi.com'
 ftp_passive:      false
+
+# optional
+ftp_port: 21                  # default 21
