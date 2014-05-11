@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -22,11 +22,3 @@ version:          2.0.0
 
 github:
   repo:           https://github.com/poole/hyde
-  
-# ftp
-ftp_host:         'giuseppesilvi.com'
-ftp_dir:          '/www.giuseppesilvi.com'
-ftp_passive:      false
-
-# optional
-ftp_port: 21                  # default 21
