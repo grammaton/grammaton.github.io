@@ -10,6 +10,7 @@ title:            Giuseppe
 tagline:          'Electroacoustic Musician'
 description:      'Electroacoustic Musician'
 url:              http://www.giuseppesilvi.com
+baseurl:          /
 
 author:
   name:           'Giuseppe Silvi'
@@ -18,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
