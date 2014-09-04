@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nothing is Real (Strawberry Fields)
+title: Music for Piano and Slow Sweep Oscillator
 ---
 
 2013 November 17 - Rossella Rubini and Giuseppe Silvi performs Alvin Lucier's *Music for piano and slow sweep oscillator* at **Museum of Contemporary Art** of Teramo, Italy.
