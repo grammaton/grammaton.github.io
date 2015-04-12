@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dulcineaincanti
-excerpt: Roberto Fabbriciani, Roberto Masotti, Alessandro Sbordoni, Giuseppe Silvi - live in Capolona, AREZZO.
 ---
 
 2015 April 09 - **DULCINEAINCANTI**
