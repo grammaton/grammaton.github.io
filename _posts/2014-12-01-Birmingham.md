@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Suona Italiano live in LONDON
+title: Suona Italiano live in BIRMINGHAM
 ---
 
 2014 Dicember 02 - **A. SAX.** Live at *Birmingham Conservatoire* for **SUONA ITALIANO**
