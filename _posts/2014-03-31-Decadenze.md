@@ -9,7 +9,7 @@ It was premiered at MAXXI (National Museum of XXI Century Arts) 29 March 2014 du
 *Contemporary Concerts* as a Acousmatic Prelude to the *Minimalism experience* percussion concert.
 
 <iframe width="100%"
- height="200"
+ height="166"
  scrolling="no"
  frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/142330312&amp;color=90a959&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true">
 </iframe>
