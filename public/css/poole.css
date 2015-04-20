@@ -328,24 +328,12 @@ tbody tr:nth-child(odd) th {
  * page is wrapped in `.page` and is only used on the page layout.
  */
 
-.page,
-.post {
-  margin-bottom: 4em;
-}
-
 /* Blog post or page title */
-
-/*.page-title,
-.post-title,
-.post-title a {
-  color: #303030;
-}*/
 
 .page-title,
 .post-title {
   margin-left: -5rem;
 }
-
 .page-title,
 .post-title,
 .post-title-content {
@@ -353,15 +341,18 @@ tbody tr:nth-child(odd) th {
   background-color: #90a959;
   display: block;
 }
-
 .post-title-content,
 .page-title-content {
   margin-left: 5rem;
 }
-
 .page-title,
 .post-title {
   margin-top: 0;
+}
+
+.page,
+.post {
+  margin-bottom: 4em;
 }
 
 /* Meta data line below post title */
