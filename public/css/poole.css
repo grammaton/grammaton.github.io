@@ -342,11 +342,21 @@ tbody tr:nth-child(odd) th {
 }*/
 
 .page-title,
+.post-title {
+  margin-left: -5rem;
+}
+
+.page-title,
 .post-title,
 .post-title-content {
   color: #fff;
-  background-color: #202020;
+  background-color: #90a959;
   display: block;
+}
+
+.post-title-content,
+.page-title-content {
+  margin-left: 5rem;
 }
 
 .page-title,
