@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Vivere è restare svegli (L. Nono)
+  Vivere è stare svegli (A. M. Ripellino)
   <!-- Why join the Navy, if you can be a pirate? - Steve Jobs -->
 </p>
 
