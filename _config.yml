@@ -9,7 +9,8 @@ permalink:        pretty
 title:            GIUSEPPE
 tagline:          'Electroacoustic Musician'
 description:      'Electroacoustic Musician'
-url:              http://giuseppesilvi.com
+# url:              http://giuseppesilvi.com
+url:              http://127.0.0.1:4000//
 baseurl:          /
 
 author:
