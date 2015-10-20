@@ -19,6 +19,7 @@ body {
 	font-weight: 700;
 	text-transform: uppercase;
 	@include clearfix;
+	border-bottom: 5px solid $white;
 }
 
 /* Site name */
@@ -263,7 +264,7 @@ $button-size: 1.5rem;
 		margin: 0;
 		padding-bottom: .5em;
 		@include font-rem(32);
-		border-bottom: 1px solid lighten($black,70);
+		border-bottom: 5px solid $white;
 	}
 	article {
 		h2 {
@@ -375,8 +376,8 @@ $button-size: 1.5rem;
 	display: none;
 	.bio-photo {
 		max-width: 110px;
+		border: 5px solid $white;
 		@include rounded(150px);
-		border: 3px;
 	}
 	@media #{$small} {
 		display: block;
@@ -425,6 +426,7 @@ $button-size: 1.5rem;
 		margin-right: 25px;
 		max-width: 100px;
 		@include rounded(150px);
+		border: 2px solid $black;
 	}
 	.author-social {
 		display: inline-block;

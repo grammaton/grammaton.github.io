@@ -1,9 +1,8 @@
 # Site wide configuration
 
 title:  Giuseppe Silvi
-locale: en_US
-#url:    giuseppesilvi.com
-url:    http://127.0.0.1:4000/
+locale: Europe/Rome
+url:    giuseppesilvi.com
 
 # Jekyll configuration
 
