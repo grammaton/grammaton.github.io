@@ -18,6 +18,12 @@ image:
 Flute **Elena D'Alò**    
 Electronics **Giuseppe Silvi**
 
+The ***S.T.ONE*** project grew up from the need of an electroacoustic environment in which acoustical and electronic instruments have the same impact on listeners. The first stage of development  involved a spherical sound diffusion technique of acousmatic music  (exposed during *EMUFest 2014*) while a research path concerning the *Sound Shape* of traditional instruments was taking place. *Sound Shape* is the perceived shape of an acoustic object. During  the recording of *13 Degrees of Darkness* (Alvin Lucier, 2013, for flute and pre-recorded flute, italian premiere during EMUFest 2014) the ***TetraREC*** technique, for *Sound Diffusion* recording of acoustical instruments, was developed.
+Through ***acoustic S.T.ONE*** it is possible to read about state of the art research and to listen to instruments which are  both recorded and analysed to describe their *Sound Diffusion*.
+
+![13 Degrees, Elena D'Alò Flute, TetraREC]({{ site.url }}/images/20151005/ED01_tetrarec_lucier13degrees_CG_T.jpeg)    
+<!-- first TETRAREC session - september 25, 2014. Alvin Lucier, 13 Degrees of Darkness. Elena D’Alò, flute. -->
+
 ## TetraREC
 
 ***TetraREC*** is a spaced microphone technique which consists in surrounding the complex sound object (musician plus instrument) with four microphones, each at the vertices of an ideal tetrahedron.
@@ -33,103 +39,14 @@ The TETRAREC technique was developed to achieve the following objectives:
  5. Collect data on Sound Shapes of similar acoustic instruments with different performers
  6. Analyse data and prototype a graphic visualisation of 3D Sound Shapes
 
-## Samples
+### Forthcoming Research
+ 
+The largest corpus of contemporary music for solo instruments is represented by Luciano Berio’s *Sequences*. In this research about recording *Sound Shapes* through the ***TetraREC*** technique while diffusing them by ***S.T.ONE***, where instrument performances are displayed over printed maps which are then used to improve their musical listening, a *Sequenza* could focus the listener’s attention on every nuance of the *Sound Shape*. At the same time reproducing a complex sound object like a musician performing a *Sequenza* (which very often implies a complex panoply of 3D movements) is the best possible research goal for a loudspeaker.
 
-### *Scala cromatica discendente*
+### acoustic S.T.ONE - Track List
 
-Roberto Prosseda plays chromatic scale from top to bottom of piano keyboard. The goal is to observe how *Sound Shape* of piano change with pitch.
-
-Switching from an ***LF*** image to others you can describe the *Sound Shape* of piano and its propagation on space. The ***LB*** picture highlights how top cover reflects sounds to front and filter sounds to back.
-
-#### LF - *left front*
-
-![scala LF]({{ site.url }}/images/20150826/scala_cromatica_LF.png)
-
-#### RF - *right front*
-
-![scala RF]({{ site.url }}/images/20150826/scala_cromatica_RF.png)
-
-#### LB - *left back*
-
-![scala LB]({{ site.url }}/images/20150826/scala_cromatica_LB.png)
-
-#### RB - *right back*
-
-![scala RB]({{ site.url }}/images/20150826/scala_cromatica_RB.png)
-
-----
-
-### Dynamics 
-
-#### LF - *left front*
-
-![dinamica LF]({{ site.url }}/images/20150826/ppp-fff-ppp_LF.png)
-
-#### RF - *right front*
-
-![dinamica RF]({{ site.url }}/images/20150826/ppp-fff-ppp_RF.png)
-
-#### LB - *left back*
-
-![dinamica LB]({{ site.url }}/images/20150826/ppp-fff-ppp_LB.png)
-
-#### RB - *right back*
-
-![dinamica RB]({{ site.url }}/images/20150826/ppp-fff-ppp_RB.png)
-
-----
-
-### Attack
-
-#### LF - *left front*
-
-![attacchi LF]({{ site.url }}/images/20150826/attacchi_LF.png)    
-
-#### RF - *right front*
-
-![attacchi RF]({{ site.url }}/images/20150826/attacchi_RF.png)   
-
-#### LB - *left back*
-
-![attacchi LB]({{ site.url }}/images/20150826/attacchi_LB.png)   
-
-#### RB - *right back*
-
-![attacchi RB]({{ site.url }}/images/20150826/attacchi_RB.png)
-
-----
-
-#### Vibrato
-
-#### LF - *left front*
-
-![vibrato LF]({{ site.url }}/images/20150826/vibrato_LF.png)
-
-#### RF - *right front*
-
-![vibrato RF]({{ site.url }}/images/20150826/vibrato_RF.png)
-
-#### LB - *left back*
-
-![vibrato LB]({{ site.url }}/images/20150826/vibrato_LB.png)
-
-#### RB - *right back*
-
-![vibrato RB]({{ site.url }}/images/20150826/vibrato_RB.png)
-
-----
-
-### Length 
-
-Roberto Prosseda ask to presents people to play the longest tune they can and measure it.
-
-| name        |    | duration  |
-|------------:|:--:|:----------|
-| alessandra  | -  | 13.101    |
-| marco       | -  | 13.256    |
-| giordano    | -  | 13.361    |
-| federico    | -  | 14.514    |
-| luca        | -  | 14.581    |
-| tommaso     | -  | 14.697    |
-| roberto     | -  | 16.984    |
-
+ - *Density 21.5* - Edgar Varèse - flute Elena D’Alò
+ - improvvisazione - Bayan - Alessandro Sbordoni
+ - *Sequenza IXb* - Luciano Berio - Alto Sax Danilo Perticaro
+ - *Suite for toy piano* - John Cage - Toy piano Francesco Ziello
+ 

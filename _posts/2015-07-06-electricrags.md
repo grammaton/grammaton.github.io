@@ -12,7 +12,7 @@ image:
 
 ### 2015 July, 06
 
-Alvin Curran - Electric Rags II [1989]
+Alvin Curran - *Electric Rags II* [1989]
 
 ![Nicola Bernardini & Giuseppe Silvi]({{ site.url }}/images/20150706/20150706_174417.jpg)
 

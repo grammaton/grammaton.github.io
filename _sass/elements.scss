@@ -23,7 +23,8 @@ figure {
 article img {
 	max-width: 100%;
 	height: auto;
-	border-width: 0;
+	// border-width: 3;
+	border: 2px solid $imgborder;
 	vertical-align: middle;
 	-ms-interpolation-mode: bicubic;
 }
@@ -72,14 +73,14 @@ svg:not(:root) {
   display: inline-block;
   margin-bottom: 20px;
   padding: 8px 20px;
-  @include font-rem(14);
-  font-family: $heading-font;
+  @include font-rem(18);
+  font-family: $base-font;
   font-weight: 700;
-  background-color: $primary;
+  background-color: $compcolor;
   color: $white;
   border-width: 2px !important;
   border-style: solid !important;
-  border-color: $primary;
+  border-color: $linkcolorhover;
   text-decoration: none !important;
   @include rounded(3px);
   &:visited {

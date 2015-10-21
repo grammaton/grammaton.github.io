@@ -659,6 +659,11 @@ $button-size: 1.5rem;
 	}
 }
 
+.pagination {
+	margin-top: 2em;
+	text-align: center;
+}
+
 /* Related articles list */
 .related-articles {
 	@include grid(12,10);
