@@ -1,28 +1,60 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Site wide configuration
 
-# Permalinks
-permalink:        pretty
+title:  Giuseppe Silvi
+locale: Europe/Rome
+url:    giuseppesilvi.com
 
-# Setup
-title:            GIUSEPPE
-tagline:          'Electroacoustic Musician'
-description:      'Electroacoustic Musician'
-# url:              http://giuseppesilvi.com
-url:              http://127.0.0.1:4000//
-baseurl:          /
+# Jekyll configuration
 
-author:
-  name:           'Giuseppe Silvi'
-  url:            https://twitter.com/giuseppesilvi
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
 
-paginate:         5
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
 
-# Custom vars
-version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+# Site owner
+owner:
+  name: Giuseppe Silvi
+  avatar: me_reflections.jpg
+  bio: "Electroacoustic Musician"
+  email: me@giuseppesilvi.com
+  disqus-shortname: giuseppesilvi
+  twitter: giuseppesilvi
+  facebook: giuseppe.silvi
+  google:
+    plus: grammaton@me.com
+    analytics: UA-59367601-3
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: grammaton
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: juxy
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: grammaton@me.com
+  soundcloud: giuseppe-silvi
+  weibo: #username
+  flickr: #username
+  codepen: #username
 
-themecolor:       .theme-base-0b
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

@@ -1,10 +1,18 @@
 ---
 layout: post
-title: Dulcineaincanti
+title: "Dulcineaincanti"
+excerpt: "Music for flute, bayan, live electronics and video"
+tags: [roberto fabbriciani, alessandro sbordoni, roberto masotti, giuseppe silvi]
+comments: true
+image:
+  feature: 20150409/090415_SilviaLelli_4289.JPG
+  credit: Silvia Lelli
+  creditlink: 
 ---
 
-2015 April 09 - **DULCINEAINCANTI**
+### 2015 April, 09
 
+**DULCINEAINCANTI**    
 Roberto Fabbriciani, Roberto Masotti, Alessandro Sbordoni, Giuseppe Silvi
 
 live in Capolona, AREZZO.
