@@ -1,7 +1,7 @@
 # Site wide configuration
 title: Giuseppe Silvi
 locale: Europe/Rome
-url:   giuseppesilvi.com
+url: http://giuseppesilvi.com
 extmaterials: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/
 
 # Jekyll configuration
