@@ -70,8 +70,9 @@ svg:not(:root) {
 /* Default button */
 
 .btn {
+	width: 80%;
   display: inline-block;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   padding: 8px 20px;
   @include font-rem(18);
   font-family: $base-font;

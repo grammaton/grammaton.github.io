@@ -30,8 +30,4 @@ He uses [GitHub](https://github.com/grammaton) to scratch ideas.
 Giuseppe Silvi [1981] is electroacoustic musician and saxophonist.    
 He studied saxophone with **Enzo Filippetti**, electronic music with **Giorgio Nottoli**, **Nicola Bernardini** and **Michelangelo Lupone**, electroacoustics with **Piero Schiavoni** at *Conservatorio di Musica S. Cecilia* of Rome. His research on sound space and musical dimensions led him to the construction of electroacoustic prototypes and software for music production. He works with the *Conservatorio di Musica S. Cecilia* of Rome, the *Centro Ricerche Musicali* of Rome, and *University of Rome Tor Vergata*. He is member of [EMUFest](emufest.org) staff for which is sound director. He is sound engineer specialized in surround recordings for Tactus, Naxos, Brilliant Classic and Sony.
 
- <!-- - cambiare cv su academia e nuovo link su sito
- 
-[Read my CV](https://conservatoriosantacecilia.academia.edu/GiuseppeSilvi/CurriculumVitae) -->
-
 *Thanks for reading!*

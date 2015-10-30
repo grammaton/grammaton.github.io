@@ -1,14 +1,13 @@
 # Site wide configuration
-
-title:  Giuseppe Silvi
+title: Giuseppe Silvi
 locale: Europe/Rome
-url:    giuseppesilvi.com
+url:   giuseppesilvi.com
+extmaterials: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/
 
 # Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: pygments
+permalink: /:categories/:title/
+markdown: kramdown
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -21,7 +20,6 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
-
 
 # Site owner
 owner:
@@ -40,7 +38,7 @@ owner:
     ad-slot:
   bing-verify:
   github: grammaton
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
   instagram: juxy
