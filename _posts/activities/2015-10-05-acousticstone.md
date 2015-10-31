@@ -2,6 +2,7 @@
 layout: post
 title: "Acoustic S.T.ONE"
 excerpt: "omnidirectional points of listenings @ EMUFest 2015"
+modified: 
 tags: [stone, omnidirectional, loudspeaker]
 categories: activity
 comments: true

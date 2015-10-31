@@ -2,6 +2,7 @@
 layout: post
 title: "Spazio del movimento e della musica"
 excerpt: "Quartetti - four choreographers and four composers"
+modified: 
 tags: [quartetti, sle]
 categories: activity
 comments: true

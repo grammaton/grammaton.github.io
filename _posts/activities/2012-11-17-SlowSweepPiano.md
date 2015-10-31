@@ -2,6 +2,7 @@
 layout: post
 title: "Music for Piano and Slow Sweep Oscillator"
 excerpt: "Alvin Lucier, Music for piano and slow sweep oscillator"
+modified: 
 tags: [alvin lucier, rossella rubini, sweep]
 categories: activity
 comments: true

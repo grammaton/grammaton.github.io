@@ -2,6 +2,7 @@
 layout: post
 title: "Nothing is Real"
 excerpt: "Alvin Lucier, Nothing is Real (Strawberry Fields)"
+modified: 
 tags: [alvin lucier, francesco ziello, strawberry fields]
 categories: activity
 comments: true

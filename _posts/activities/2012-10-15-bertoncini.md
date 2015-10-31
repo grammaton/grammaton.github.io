@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Mario Bertoncini"
-excerpt: ""
-modified: 
-tags: []
+excerpt: "Career Celebration during EMUFest 2012"
+modified: 2015-10-31T01:31:17
+tags: [Bertoncini, Cage, toy, piano, cartridge]
 categories: activity
 photogalsid: bertonciniphotogal
 comments: true
-image:
+image: 
   feature: 
   credit: 
   creditlink:

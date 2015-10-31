@@ -2,6 +2,7 @@
 layout: post
 title: "Dulcineaincanti"
 excerpt: "Music for flute, bayan, live electronics and video"
+modified: 
 tags: [roberto fabbriciani, alessandro sbordoni, roberto masotti, giuseppe silvi]
 categories: activity
 comments: true

@@ -2,6 +2,8 @@
 layout: post
 title: "Electric Rags II"
 excerpt: "Alvin Curran - Electric Rags II, for saxophone quartet & live electronics."
+modified: 
+
 tags: [alvin, curran, electric, rags, saxophone, quartet, live, electronics]
 categories: activity
 comments: true
