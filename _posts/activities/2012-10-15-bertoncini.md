@@ -36,7 +36,7 @@ image:
 {% for photogals in site.data.photogals %}
   {% if photogals.id == page.photogalsid %}
     {% for image in photogals.images %}
-      ![{{ page.title }}]({{ photogals.imagefolder }}{{ image.name }})
+![{{ page.title }}]({{ photogals.imagefolder }}{{ image.name }})
     {% endfor %}
   {% endif %}
 {% endfor %}
