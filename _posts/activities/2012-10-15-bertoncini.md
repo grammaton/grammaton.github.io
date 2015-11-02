@@ -19,6 +19,8 @@ image:
 ***EMUFest***    
 *Conservatorio S. Cecilia*, Roma
 
+![{{ page.title }}]({{ photogals.imagefolder }}DSC_8199.png)
+
  - *Epitaffio in memoria d’un Concerto*, Mario Bertoncini
  - *Suite for toy piano*, John Cage
  - *Cartridge music*, John Cage
