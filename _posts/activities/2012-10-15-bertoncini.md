@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mario Bertoncini"
-excerpt: "80th Birthday Celebration @EMUFest2012"
+excerpt: "80th Birthday Celebration @ EMUFest 2012"
 modified: 2015-11-02T16:39:59
 tags: [Bertoncini, Cage, toy, piano, cartridge]
 categories: activity

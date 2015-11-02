@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Music for Piano and Slow Sweep Oscillator"
-excerpt: "Alvin Lucier, Music for piano and slow sweep oscillator"
+title: "Music for Piano with Slow Sweep Pure Wave Oscillators"
+excerpt: "Alvin Lucier, Music for Piano with Slow Sweep Pure Wave Oscillators @ Museum of Contemporary Art of Teramo"
 modified: 
 tags: [alvin lucier, rossella rubini, sweep]
 categories: activity
@@ -14,8 +14,15 @@ image:
 
 ### 2012 November, 17
 
-Alvin Lucier - *Music for piano and slow sweep oscillator* [data]      
+Alvin Lucier - *Music for Piano with Slow Sweep Pure Wave Oscillators* [1992]      
 @ **Museum of Contemporary Art** of Teramo. 
+
+<iframe
+  width="100%"
+  height="166"
+  scrolling="no"
+  frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/68387870&amp;color=baff1e&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false">
+</iframe>
 
 piano **Rossella Rubini**    
 electronics **Giuseppe Silvi**
@@ -27,4 +34,3 @@ electronics **Giuseppe Silvi**
   frameborder="0"
   allowfullscreen>
 </iframe>
-

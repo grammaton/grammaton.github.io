@@ -17,6 +17,9 @@ image:
 **A. SAX.** Live at *Birmingham Conservatoire* for **SUONA ITALIANO**
 
 ![Live at Birmingham Conservatoire]({{ site.url }}/images/20141202/gs_IMG_2749_birm.jpeg)
+<figcaption>
+  Giuseppe Silvi, Enzo Filippetti - Rehearsal @ Birmingham Conservatoire.
+</figcaption> 
 
 **encouragement**  |ɪnˈkʌrɪʤm(ə)nt|    
 noun [ mass noun ]    

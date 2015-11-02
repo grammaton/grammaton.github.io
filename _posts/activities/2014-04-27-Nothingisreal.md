@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nothing is Real"
-excerpt: "Alvin Lucier, Nothing is Real (Strawberry Fields)"
+excerpt: "Alvin Lucier, Nothing is Real (Strawberry Fields) @ Teatro Studio - Auditorium Parco della Musica, Roma"
 modified: 
 tags: [alvin lucier, francesco ziello, strawberry fields]
 categories: activity
@@ -19,7 +19,6 @@ Alvin Lucier - *Nothing is Real (Strawberry Fields)* [data]
 
 piano **Francesco Ziello**    
 electronics **Giuseppe Silvi, Massimo Massimi** 
-
 
 <iframe
   width="560"

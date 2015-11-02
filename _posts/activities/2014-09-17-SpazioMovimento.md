@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spazio del movimento e della musica"
-excerpt: "Quartetti - four choreographers and four composers"
+excerpt: "Quartetti - four choreographers and four composers @ Teatro RUSKAJA - Accademia Nazionale di Danza, Roma"
 modified: 
 tags: [quartetti, sle]
 categories: activity
