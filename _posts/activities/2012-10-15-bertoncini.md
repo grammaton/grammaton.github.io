@@ -33,17 +33,24 @@ image:
  
  ---
 
-{% for photogals in site.data.photogals %}
+<!-- {% for photogals in site.data.photogals %}
   {% if photogals.id == page.photogalsid %}
     {% for image in photogals.images %}
 ![{{ page.title }}]({{ photogals.imagefolder }}{{ image.name }})
     {% endfor %}
   {% endif %}
-{% endfor %}
+{% endfor %} -->
 
-<!-- <figure class="third">
-	<img src="/images/image-filename-1.jpg">
-	<img src="/images/image-filename-2.jpg">
-	<img src="/images/image-filename-3.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
-</figure> -->
+### Photo Gallery
+
+<ul class="th-grid">
+{% for photogals in site.data.photogals %}
+{% if photogals.id == page.photogalsid %}
+{% for image in photogals.images %}
+
+<li><a href="{{ photogals.imagefolder }}{{ image.name }}"><img src="{{ photogals.imagefolder }}_tnb_{{ image.name }}" alt=""></a></li>
+
+{% endfor %}
+{% endif %}
+{% endfor %}
+</ul>

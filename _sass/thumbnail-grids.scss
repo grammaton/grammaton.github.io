@@ -15,6 +15,15 @@
  *
  */
 
+#photogallery ul {
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+}
+
+#photogallery ul li { display: inline; }
+
 .th-grid {
   display: flex;
   padding-left: 0; // reset
@@ -36,8 +45,8 @@
       }
     }
   }
-  img {
-    width: 100%;
-    height: auto;
-  }
+  // img {
+  //   width: 100%;
+  //   height: auto;
+  // }
 }
