@@ -44,6 +44,24 @@
       {{ content }}
       <hr />
       
+      
+{% if page.photogalsid %}
+<h3>Photo Gallery</h3>
+
+<ul class="th-grid">
+{% for photogals in site.data.photogals %}
+{% if photogals.id == page.photogalsid %}
+{% for image in photogals.images %}
+
+<li><a href="{{ photogals.imagefolder }}{{ image.name }}"><img src="{{ photogals.imagefolder }}_tnb_{{ image.name }}" alt=""></a></li>
+
+{% endfor %}
+{% endif %}
+{% endfor %}
+</ul>
+<hr />
+{% endif %}
+      
       <!-- ho aggiunto da emufest.org -->
       <nav class="pagination" role="navigation">
         {% if page.previous %}

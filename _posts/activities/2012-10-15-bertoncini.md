@@ -33,10 +33,12 @@ Piano & Toy Piano *Mario Bertoncini*
 Objects *Federico Scalas*, *Giuseppe Silvi*, *Leonardo Zaccone*
 
 {% for photogals in site.data.photogals %}
+{% if photogals.id == page.photogalsid %}
 ![{{ page.title }}]({{ photogals.imagefolder }}DSC_8199.png)
 <figcaption>
   SX2DX: Federico Scalas, Giuseppe Silvi, Leonardo Zaccone, Mario Bertoncini, Pasquale Citera, Francesco Bianco, Tommaso Cancellieri.
 </figcaption>
+{% endif %}
 {% endfor %}
 
 >Grazie di tutto: delle bellissime espressioni che non so
@@ -51,18 +53,3 @@ Grazie ancora. Un abbraccio corale a voi tutti!
 >
 MARIO
 
----
-
-### Photo Gallery
-
-<ul class="th-grid">
-{% for photogals in site.data.photogals %}
-{% if photogals.id == page.photogalsid %}
-{% for image in photogals.images %}
-
-<li><a href="{{ photogals.imagefolder }}{{ image.name }}"><img src="{{ photogals.imagefolder }}_tnb_{{ image.name }}" alt=""></a></li>
-
-{% endfor %}
-{% endif %}
-{% endfor %}
-</ul>

@@ -4,7 +4,7 @@ title: "La forma sonora del pianoforte"
 excerpt: "Sound Shape of piano. Electroacoustic lesson during Roberto Prosseda piano Masterclass"
 modified: 
 tags: [roberto, prosseda, sound, shape, piano, pianoforte]
-categories: activity
+categories: blog
 comments: true
 image:
   feature: 20150826/IMG_2067_panlo.png

@@ -1,16 +1,162 @@
+- id: kontaktephotogal
+  imagefolder: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/photos/2008-11-30-kontakte/
+  images:
+    - name: DSC_5294.png
+    - name: DSC_5298.png
+    - name: DSC_5301.png
+    - name: DSC_5303.png
+    - name: DSC_5310.png
+    - name: DSC_5311.png
+    - name: DSC_5314.png
+    - name: DSC_5316.png
+    - name: DSC_5327.png
+    - name: DSC_5330.png
+    - name: DSC_5339.png
+    - name: DSC_5345.png
+    - name: DSC_5350.png
+    - name: DSC_5356.png
+    - name: DSC_5365.png
+    - name: DSC_5368.png
+    - name: DSC_5377.png
+    - name: DSC_5381.png
+    - name: DSC_5392.png
+    - name: DSC_5400.png
+    - name: DSC_5521.png
+    - name: DSC_5522.png
+    - name: DSC_5531.png
+    - name: DSC_5539.png
+    - name: DSC_5540.png
+    - name: DSC_5543.png
+    - name: DSC_5550.png
+    - name: DSC_5559.png
+    - name: DSC_5899.png
+    - name: DSC_5903.png
+    - name: DSC_5913.png
+  
+- id: ringphotogal
+  imagefolder: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/photos/2009-08-30-gnring/
+  images:
+    - name: 2008-08-30-ring-01.png
+    - name: 2008-08-30-ring-02.png
+    - name: 2008-08-30-ring-03.png
+    - name: 2008-08-30-ring-04.png
+    - name: 2008-08-30-ring-06.png
+    - name: 2008-08-30-ring-07.png
+
+- id: surround2photogal
+  imagefolder: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/photos/2012-06-05-surroundjourney2/
+  images:
+    - name: DSC_5694.jpg
+    - name: DSC_5695.jpg
+    - name: DSC_5696.jpg
+    - name: DSC_5697.jpg
+    - name: DSC_5698.jpg
+    - name: DSC_5699.jpg
+    - name: DSC_5704.jpg
+    - name: DSC_5707.jpg
+    - name: DSC_5723.jpg
+    - name: DSC_5727.jpg
+    - name: DSC_5730.jpg
+    - name: DSC_5741.jpg
+    - name: DSC_5748.jpg
+    - name: DSC_5768.jpg
+    - name: DSC_5778.jpg
+    - name: DSC_5784.jpg
+    - name: DSC_5788.jpg
+    - name: DSC_5792.jpg
+    - name: DSC_5796.jpg
+    - name: DSC_5813.jpg
+    - name: DSC_5820.jpg
+    - name: DSC_5825.jpg
+    - name: DSC_5826.jpg
+    - name: DSC_5833.jpg
+    - name: DSC_5840.jpg
+    - name: DSC_5853.jpg
+    - name: DSC_5864.jpg
+    - name: DSC_5872.jpg
+    - name: DSC_5876.jpg
+    - name: DSC_5879.jpg
+    - name: DSC_5905.jpg
+
 - id: bertonciniphotogal
   imagefolder: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/photos/2012-10-15-bertoncini/
   images:
-  - name: DSC_8076.png
-  - name: DSC_8116.png
-  - name: DSC_8125.png
-  - name: DSC_8128.png
-  - name: DSC_8137.png
-  - name: DSC_8140.png
-  - name: DSC_8143.png
-  - name: DSC_8144.png
-  - name: DSC_8154.png
-  - name: DSC_8156.png
-  - name: DSC_8170.png
-  - name: DSC_8177.png
-  - name: DSC_8180.png
+    - name: DSC_8076.png
+    - name: DSC_8116.png
+    - name: DSC_8125.png
+    - name: DSC_8128.png
+    - name: DSC_8137.png
+    - name: DSC_8140.png
+    - name: DSC_8143.png
+    - name: DSC_8144.png
+    - name: DSC_8154.png
+    - name: DSC_8156.png
+    - name: DSC_8170.png
+    - name: DSC_8177.png
+    - name: DSC_8180.png
+        
+- id: maxxi01photogal
+  imagefolder: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/photos/2014-03-01-MAXXI/
+  images:
+    - name: DSC_1138.png
+    - name: DSC_1140.png
+    - name: DSC_1142.png
+    - name: DSC_1143.png
+    - name: DSC_1145.png
+    - name: DSC_1151.png
+    - name: DSC_1156.png
+    - name: DSC_1160.png
+    - name: DSC_1163.png
+    - name: DSC_1168.png
+    - name: DSC_1173.png
+    - name: DSC_1175.png
+    - name: DSC_1178.png
+    - name: DSC_1181.png
+    - name: DSC_1185.png
+    - name: DSC_1191.png
+    - name: DSC_1194.png
+    - name: DSC_1202.png
+    - name: DSC_1206.png
+    - name: DSC_1223.png
+    - name: DSC_1226.png
+    - name: DSC_1228.png
+    - name: DSC_1234.png
+    - name: DSC_1235.png
+    - name: DSC_1237.png
+    - name: DSC_1243.png
+    - name: DSC_1244.png
+    - name: DSC_1249.png
+    - name: DSC_1250.png
+    - name: DSC_1267.png
+    - name: DSC_1268.png
+    - name: DSC_1270.png
+    - name: DSC_1271.png
+    - name: DSC_1272.png
+    - name: DSC_1274.png
+    - name: DSC_1282.png
+    - name: DSC_1284.png
+    - name: DSC_1285.png
+    - name: DSC_1289.png
+    - name: DSC_1293.png
+    - name: DSC_1294.png
+    - name: DSC_1295.png
+    - name: DSC_1299.png
+    - name: DSC_1300.png
+    - name: DSC_1302.png
+    - name: DSC_1304.png
+    - name: DSC_1318.png
+    - name: DSC_1321.png
+    - name: DSC_1325.png
+    - name: DSC_1329.png
+    - name: DSC_1332.png
+    - name: DSC_1335.png
+    - name: DSC_1338.png
+    - name: DSC_1339.png
+    - name: DSC_1343.png
+    - name: DSC_1346.png
+    - name: DSC_1347.png
+    - name: DSC_1351.png
+    - name: DSC_1356.png
+      
+    
+    
