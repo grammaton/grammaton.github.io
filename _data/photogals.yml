@@ -1,3 +1,8 @@
+- id: template
+  imagefolder: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/photos/thefolder/
+  images:
+    - name: imagename.ext
+
 - id: kontaktephotogal
   imagefolder: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/photos/2008-11-30-kontakte/
   images:
@@ -157,6 +162,22 @@
     - name: DSC_1347.png
     - name: DSC_1351.png
     - name: DSC_1356.png
-      
-    
+
+- id: dulcineaincantiphotogal
+  imagefolder: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/photos/2015-04-09-Dulcineaincanti/
+  images:
+    - name: 090415_©_Silvia_Lelli_4289.JPG
+    - name: 090415_©_Silvia_Lelli_4299.JPG
+    - name: 090415_©_Silvia_Lelli_4307.JPG
+    - name: 090415_©_Silvia_Lelli_4311.JPG
+    - name: 090415_©_Silvia_Lelli_4316.JPG
+    - name: 090415_©_Silvia_Lelli_4317.JPG
+    - name: 090415_©_Silvia_Lelli_4319.JPG
+    - name: 090415_©_Silvia_Lelli_4339.JPG
+    - name: 090415_©_Silvia_Lelli_4351.JPG
+    - name: 090415_©_Silvia_Lelli_4352.JPG
+    - name: IMG_0649.JPG
+    - name: IMG_0650.JPG
+    - name: IMG_0655.JPG
+    - name: IMG_0661.JPG    
     

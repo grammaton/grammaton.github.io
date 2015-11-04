@@ -60,6 +60,7 @@ a {
 figcaption {
 	@include font(16);
 	line-height: 1.1;
+	padding-bottom: 3em;
 	color: $text-color;
 }
 

@@ -3,10 +3,10 @@
    ========================================================================== */
 
 .highlight {
-	background-color: #efefef;
+	background-color: $black;
 	font-family: $code-font;
 	@include font(12);
-	color: #333332;
+	color: $white;
 	margin-bottom: 1.5em;
 	@include rounded(4px);
 	pre {
@@ -14,8 +14,8 @@
 		margin: 0;
 		padding: 1em;
 	}
-	.lineno { padding-right: 24px; color: lighten(#333332,50);}
-	.hll { background-color: #ffffcc }
+	.lineno { padding-right: 24px; color: lighten($black,50);}
+	.hll { background-color: $black }
 	.c { color: #999988; font-style: italic } /* Comment */
 	.err { color: #a61717; background-color: #e3d2d2 } /* Error */
 	.k { color: #000000; font-weight: bold } /* Keyword */
