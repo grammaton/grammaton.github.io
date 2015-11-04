@@ -7,7 +7,7 @@ tags: []
 categories: activity
 comments: true
 image:
-  feature: 
+  feature: panos/panagnam05_CC_TEXT_resize.jpg
   credit: 
   creditlink: 
 ---
