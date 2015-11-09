@@ -3,10 +3,10 @@
    ========================================================================== */
 
 .highlight {
-	background-color: $black;
+	background-color: $white;
 	font-family: $code-font;
-	@include font(12);
-	color: $white;
+	@include font(14);
+	color: $black;
 	margin-bottom: 1.5em;
 	@include rounded(4px);
 	pre {
