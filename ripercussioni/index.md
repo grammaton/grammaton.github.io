@@ -30,8 +30,7 @@ differito, vedere se stessi.
 
 Premiere: 2015, Dicember 03 @ Conservatorio di Musica S. Cecilia of Rome
 
-[Score]()
-
+[Score](https://www.academia.edu/19411395/riPercussioni)
 
 ---
 
