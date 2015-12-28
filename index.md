@@ -3,7 +3,7 @@ layout: home
 excerpt: "Musician"
 tags: [giuseppe, silvi, electroacoustic, musician, saxophonist]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature: panos/17luglioCRM.jpg
+  credit:
+  creditlink:
 ---
