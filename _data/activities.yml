@@ -1,0 +1,22 @@
+# database attività concertistica e professionale
+- id: 20151118formedaria
+  title: "Forme D'Aria"
+  date:
+    year: 2015
+    month: November
+    day: 18
+  where:
+    place: Teatro Ca' Foscari
+    organization: Università Ca' Foscari
+    city: Venezia
+    
+- id: 20151005acousticstone
+  title: "Acoustic S.T.ONE"
+  date:
+    year: 2015
+    month: October
+    day: 05
+  where:
+    place: EMUFest
+    organization: Conservatorio di Musica S. Cecilia
+    city: Roma

@@ -2,20 +2,16 @@
 layout: post
 title: "Acoustic S.T.ONE"
 excerpt: "omnidirectional points of listenings @ EMUFest 2015"
-modified: 
+modified: 2015-11-10T01:00:28
 tags: [stone, omnidirectional, loudspeaker]
 categories: activity
+activitiesid: 20151005acousticstone
 comments: true
 image:
   feature: 
   credit: 
   creditlink: 
 ---
-
-### 2015 October, 5 to 10
-
-***EMUFest***    
-*Conservatorio S. Cecilia*, Roma
 
 Flute **Elena D'Alò**    
 Electronics **Giuseppe Silvi**

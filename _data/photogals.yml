@@ -37,7 +37,7 @@
     - name: DSC_5899.png
     - name: DSC_5903.png
     - name: DSC_5913.png
-  
+
 - id: ringphotogal
   imagefolder: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/photos/2009-08-30-gnring/
   images:
@@ -99,7 +99,7 @@
     - name: DSC_8170.png
     - name: DSC_8177.png
     - name: DSC_8180.png
-        
+
 - id: maxxi01photogal
   imagefolder: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/photos/2014-03-01-MAXXI/
   images:
@@ -179,5 +179,20 @@
     - name: IMG_0649.JPG
     - name: IMG_0650.JPG
     - name: IMG_0655.JPG
-    - name: IMG_0661.JPG    
-    
+    - name: IMG_0661.JPG
+
+- id: formedariaphotogal
+  imagefolder: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/photos/2015-11-18-formedaria/
+  images:
+    - name: IMG_0347.png
+    - name: IMG_0348.png
+    - name: IMG_0350.png
+    - name: IMG_0352.png
+    - name: IMG_0370.png
+    - name: IMG_0372.png
+    - name: IMG_0374.png
+    - name: IMG_0375.png
+    - name: IMG_0378.png
+    - name: IMG_0380.png
+    - name: IMG_0384.png
+    - name: IMG_0394.png

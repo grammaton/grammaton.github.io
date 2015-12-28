@@ -41,6 +41,21 @@
       {% endif %}
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
+      
+      {% if page.activitiesid %}
+
+      {% for activities in site.data.activities %}
+      {% if activities.id == page.activitiesid %}
+
+      <h3>{{ activities.date.year }} {{ activities.date.month }}, {{ activities.date.day }}</h3>
+      
+      <p><em><strong>{{ activities.where.place}}</strong>, {{ activities.where.organization }}</em>, {{ activities.where.city }}</p>
+
+      {% endif %}
+      {% endfor %}
+
+      {% endif %}
+      
       {{ content }}
       <hr />
       

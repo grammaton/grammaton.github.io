@@ -2,15 +2,15 @@
 layout: post
 title: "Dulcineaincanti"
 excerpt: "Music for flute, bayan, live electronics and video"
-modified: 
+modified:
 tags: [roberto fabbriciani, alessandro sbordoni, roberto masotti, giuseppe silvi]
 categories: activity
 photogalsid: dulcineaincantiphotogal
 comments: true
 image:
-  feature: 20150409/090415_SilviaLelli_4289.JPG
+  feature: panos/090415_SilviaLelli_4289.JPG
   credit: Silvia Lelli
-  creditlink: 
+  creditlink:
 ---
 
 ### 2015 April, 09

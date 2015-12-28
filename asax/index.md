@@ -2,14 +2,14 @@
 layout: page
 title: "A. Sax."
 excerpt: "for any kind of Saxophone & Electronics"
-modified: 
+modified:
 tags: [asax, saxophone, live, electronics, electroacoustic]
-categories: 
+categories: works
 comments: true
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 ---
 
 *for any kind of Saxophone & Electronics*    
