@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "riPercussioni"
-excerpt: "for Percussions & Spherical Live Electronics"
+excerpt: "for Percussions & Spherical Electronics"
 modified:
 tags: [ripercussioni, percussion, live, electronics, electroacoustic]
 categories: works
@@ -28,9 +28,17 @@ sono la stessa cosa. Indagare se stessi in relazione al tempo organizzato.
 È guardarsi allo specchio nel riascoltare le proprie azioni e, in un tempo
 differito, vedere se stessi.
 
-Premiere: 2015, Dicember 03 @ Conservatorio di Musica S. Cecilia of Rome
+Premiere: 2015, Dicember 03    
+@ Conservatorio di Musica S. Cecilia of Rome
 
 [Score](https://www.academia.edu/19411395/riPercussioni)
+
+<form accept-charset="UTF-8" action="https://formkeep.com/f/ef4a33ae04c0" method="POST">
+  <input type="hidden" name="utf8" value="✓">
+  <input type="email" name="email" placeholder="Your Email">
+  <button type="submit">Submit</button>
+</form>
+
 
 ---
 

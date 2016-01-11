@@ -25,7 +25,9 @@ image:
 | 003 | **FBGH** | Enzo Filippetti            | 2014-12-01 | Birmingham Conservatoire       | S        |      |
 | 004 | **FBGH** | Enzo Filippetti            | 2014-12-09 | City University London         | S        |      |
 |----
-| 005 | **GFBH** | Davide Lucente             | 2015-09-16 | Conservatorio S. Cecilia, Roma | BB, S, A | <a href="https://www.youtube.com/embed/LA9oJingdc8" target="_blank" title="Jump to YouTube"><i class="fa fa-link"></i> |
+| 005 | **DFBH** | Davide Lucente             | 2015-09-16 | Conservatorio S. Cecilia, Roma | BB, S, A | <a href="https://www.youtube.com/embed/LA9oJingdc8" target="_blank" title="Jump to YouTube"><i class="fa fa-link"></i> |
+|----
+| 006 | **BFGH** | Enzo Filippetti            | 2016-01-08 | Fondazione Scelsi, Roma        | A, S     |      |
 {: rules="groups"}
 
 [sc01]: https://soundcloud.com/giuseppe-silvi/a-sax-palazzo-carpegna-roma "SoundCloud link"
