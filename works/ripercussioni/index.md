@@ -28,8 +28,14 @@ sono la stessa cosa. Indagare se stessi in relazione al tempo organizzato.
 È guardarsi allo specchio nel riascoltare le proprie azioni e, in un tempo
 differito, vedere se stessi.
 
-Premiere: 2015, Dicember 03    
-@ Conservatorio di Musica S. Cecilia of Rome
+### list of performances
+
+| N.  | Percussionist | Date | Place | link |
+|:----|:--------------|:-----|:------|:-----|
+| 001 | Valerio Cosmai | 2015-12-03 | *Conservatorio di Musica S. Cecilia*, Roma  | |
+|----
+| | | | | |
+{: rules="groups"}
 
 [Score](https://www.academia.edu/19411395/riPercussioni)
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "al nulla di cui essere felice"
-excerpt: "for Flute, Baritone Saxophone & Electronics"
+title: "Attraverso la lente"
+excerpt: "Acousmatic"
 modified:
-tags: [andcef, flute, saxophone, live, electronics, electroacoustic]
+tags: [acousmatic, piano, sounds, aformat, omnidirectional]
 categories: works
 comments: true
 image:
