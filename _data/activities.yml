@@ -1,4 +1,28 @@
 # database attività concertistica e professionale
+- id: 20160122stoned
+  title: "STONED @Teramo"
+  date:
+    year: 2016
+    month: Genuary
+    day: 22
+  where:
+    place: Tana libera Tutti
+    organization:
+    city: Teramo
+
+# 2015 -----------------------------------------------
+
+- id: 20151203ripercussioni
+  title: "riPercussioni"
+  date:
+    year: 2015
+    month: Dicember
+    day: 03
+  where:
+    place: Aula Bianchini
+    organization: Conservatorio S. Cecilia
+    city: Roma
+
 - id: 20151118formedaria
   title: "Forme D'Aria"
   date:
@@ -9,7 +33,18 @@
     place: Teatro Ca' Foscari
     organization: Università Ca' Foscari
     city: Venezia
-    
+
+- id: 20151017giorgio70
+  title: "Happy Birthday Giorgio. 70"
+  date:
+    year: 2015
+    month: October
+    day: 17
+  where:
+    place: Istituto Nazareth
+    organization:
+    city: Roma
+
 - id: 20151005acousticstone
   title: "Acoustic S.T.ONE"
   date:

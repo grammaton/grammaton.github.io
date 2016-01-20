@@ -41,7 +41,7 @@ $(function () {
             disableImageResize: /Android(?!.*Chrome)|Opera/
                 .test(window.navigator.userAgent),
             maxFileSize: 999999999,
-            acceptFileTypes: /(\.|\/)(pdf|wav|png)$/i
+            acceptFileTypes: /(\.|\/)(pdf|wav|aiff|png)$/i
         });
         // Upload server status check for browsers with CORS support:
         if ($.support.cors) {
