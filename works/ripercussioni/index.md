@@ -15,6 +15,8 @@ image:
 *for Percussions & Spherical Electronics*    
 2013--2015
 
+### Note di programma
+
 Quando si prova ad avere il controllo del Tempo la prima considerazione da fare
 è che tentare è ammettere di poter fallire. E fallire non è perdere. Non è
 perdere tempo. Fallire è investire tempo quanto avere successo. Azione. Agire

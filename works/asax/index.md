@@ -17,28 +17,30 @@ image:
 
 ### list of performed sequences
 
-| N.  | Seq.     | Saxophonist                | Date       | Place                          | Sax      | link |
-|:----|:---------|:---------------------------|:-----------|:-------------------------------|:---------|:-----|
+| N.  | Seq.     | Saxophonist                | Date       | Place                            | Sax      | link |
+|:----|:---------|:---------------------------|:-----------|:---------------------------------|:---------|:-----|
 | 001 | **ADFG** | Edoardo Capparucci         | 2013-05-02 | *Académie Rainier III*,  Monaco  | A        |      |
 | 002 | **ADFG** | Edoardo Capparucci         | 2013-07-25 | *Accademia di S. Luca*, Roma     | A        | <a href="https://soundcloud.com/giuseppe-silvi/a-sax-palazzo-carpegna-roma" target="_blank" title="Jump to SoundCloud"><i class="fa fa-link"></i> |
 |----
 | 003 | **FBGH** | Enzo Filippetti            | 2014-12-01 | *Birmingham Conservatoire*       | S        | |
 | 004 | **FBGH** | Enzo Filippetti            | 2014-12-09 | *City University London*         | S        | |
 |----
-| 005 | **DFBH** | Davide Lucente             | 2015-09-16 | *Conservatorio S. Cecilia*, Roma | BB, S, A | <a href="https://www.youtube.com/embed/LA9oJingdc8" target="_blank" title="Jump to YouTube"><i class="fa fa-link"></i> |
+| 005 | **DFBH** | Davide Lucente             | 2015-09-16 | *Conservatorio S. Cecilia*, Roma | S, A, BB | <a href="https://www.youtube.com/embed/LA9oJingdc8" target="_blank" title="Jump to YouTube"><i class="fa fa-link"></i> |
 |----
-| 006 | **BFGH** | Enzo Filippetti            | 2016-01-08 | *Fondazione Scelsi*, Roma        | A, S     | |
+| 006 | **BFGH** | Enzo Filippetti            | 2016-01-08 | *Fondazione Scelsi*, Roma        | S, A     | |
 |----
-| 007 | **DFBH** | Davide Lucente             | 2016-01-22 | *Tana libera tutti*, Teramo      | B, S, A  | |
+| 007 | **DBGF** | Davide Lucente             | 2016-01-22 | *Tana libera tutti*, Teramo      | S, A, B  | |
 {: rules="groups"}
 
-[sc01]: https://soundcloud.com/giuseppe-silvi/a-sax-palazzo-carpegna-roma "SoundCloud link"
-[yt01]: https://www.youtube.com/embed/LA9oJingdc8  "YouTube link"
-[score2013]: https://www.academia.edu/4637680/A._SAX._saxophone_and_electronics_-_SCORE_2013 "Academia - Score 2013"
+---
 
-<h3 class="link-post"><a href="https://www.academia.edu/4637680/A._SAX._saxophone_and_electronics_-_SCORE_2013" target="_blank" title="Score - first version, 2013">Score - first version, 2013</a><a href="https://www.academia.edu/4637680/A._SAX._saxophone_and_electronics_-_SCORE_2013" target="_blank" title="Score - first version, 2013"><i class="fa fa-link"></i></a></h3>
+[Score - second version, draft 2015](https://www.academia.edu/17588318/A._SAX._-_Matita_v2015)
 
-<h3 class="link-post"><a href="https://www.academia.edu/s/54c4ecd0c4?source=link" target="_blank" title="Score - second version, draft 2015">Score - second version, draft 2015</a><a href="https://www.academia.edu/s/54c4ecd0c4?source=link" target="_blank" title="Score - second version, draft 2015"><i class="fa fa-link"></i></a></h3>
+<!-- <h3 class="link-post"><a href="https://www.academia.edu/s/54c4ecd0c4?source=link" target="_blank" title="Score - second version, draft 2015">Score - second version, draft 2015</a><a href="https://www.academia.edu/s/54c4ecd0c4?source=link" target="_blank" title="Score - second version, draft 2015"><i class="fa fa-link"></i></a></h3> -->
+
+[Score - first version, 2013](https://www.academia.edu/4637680/A._SAX._saxophone_and_electronics_-_SCORE_2013)
+
+<!-- <h3 class="link-post"><a href="https://www.academia.edu/4637680/A._SAX._saxophone_and_electronics_-_SCORE_2013" target="_blank" title="Score - first version, 2013">Score - first version, 2013</a><a href="https://www.academia.edu/4637680/A._SAX._saxophone_and_electronics_-_SCORE_2013" target="_blank" title="Score - first version, 2013"><i class="fa fa-link"></i></a></h3> -->
 
 ---
 

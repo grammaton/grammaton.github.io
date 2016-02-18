@@ -3,7 +3,7 @@ layout: page
 title: "Decadenze"
 excerpt: "Acousmatic"
 modified:
-tags: [acousmatic, piano, sounds, aformat, omnidirectional]
+tags: [acousmatic, percussion sounds]
 categories: works
 comments: true
 image:
@@ -12,21 +12,13 @@ image:
   creditlink:
 ---
 
-*for Flute, Baritone Saxophone & Electronics*    
-2015--2016
+*Acousmatic*    
+Date: **2014**    
+Cat: **GS010-A005**
 
-### list of performances
-
-| N.  | Flutist | Saxophonist | Date | Place | link |
-|:----|:--------|:------------|:-----|:------|:-----|
-| 001 | <a href="http://elenadalo.xyz" target="_blank">Elena D'Alò</a> | Enzo Filippetti | 2015-04-27 | *Conservatorio S. Cecilia*, Roma | |
-|----
-| 002 | <a href="http://elenadalo.xyz" target="_blank">Elena D'Alò</a> | Davide Lucente  | 2016-01-22 | *Tana libera tutti*, Teramo | |
-|----
-| | | | | | |
-{: rules="groups"}
-
-[Score]()
----
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">al nulla di cui essere felici</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="giuseppesilvi.com/asax" property="cc:attributionName" rel="cc:attributionURL">Giuseppe Silvi</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="giuseppesilvi.com/ANDCEF" rel="cc:morePermissions">giuseppesilvi.com/ANDCEF</a>.
+<iframe
+  width="100%"
+  height="166"
+  scrolling="no"
+  frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/142330312&amp;color=baff1e&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false">
+</iframe>
