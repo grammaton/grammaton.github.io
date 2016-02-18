@@ -7,7 +7,9 @@ extmaterials: https://raw.githubusercontent.com/grammaton/grammaton-materials/ma
 # Jekyll configuration
 permalink: /:categories/:title/
 markdown: kramdown
-highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
