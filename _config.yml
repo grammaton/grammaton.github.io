@@ -1,5 +1,7 @@
 # Site wide configuration
 title: Giuseppe Silvi
+# try to use shorttitle for small window
+shorttitle: Giuseppe
 locale: Europe/Rome
 url: http://giuseppesilvi.com
 extmaterials: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/
