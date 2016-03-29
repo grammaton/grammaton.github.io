@@ -18,7 +18,7 @@ This is the first attempt to find a way to simulate loudspeakers (in their relat
 
 ![source](https://raw.githubusercontent.com/grammaton/liquidivolumi/master/YCC-LiquidiVolumi-v02/_DeletedItems/media/SourceA.png)
 
-The concert that stimulate this approach will be done next april 22 on 500 meters of *Tiber* river in Rome with music of Massimo Massimi and some others. In this context will be available up to eight channel of music throught eighr cluster of Loudspeakers.
+The concert that stimulate this approach will be done next april 22 on 500 meters of *Tiber* river in Rome with acousmatic music (not mine). In this context will be available up to eight channel of music throught eighr cluster of Loudspeakers.
 
 My vision to simulate half kilometer of space concern sure loudspeakers (cluster of it) but in their space context. Obiuvsly.
 
