@@ -7,3 +7,10 @@ image:
   credit:
   creditlink:
 ---
+
+Working on:
+
+ - ***ANAMNESI***
+  - **eight channel acousmatic for half kilometer audition space**
+ - ***unisolo***
+  - **for Bass Flute, A Clarinet, Viola and Tenor Sax**
