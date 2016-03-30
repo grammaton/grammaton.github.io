@@ -2,7 +2,7 @@
 layout: post
 title: "Liquidi Volumi ep.ONE"
 excerpt: "a way to simulate large electroacoustic concert space"
-modified: 2016-03-29T17:45:11
+modified: 2016-03-30T05:34:11
 tags: [liquidivolumi, large spece, electroacoustic, concert]
 categories: blog
 link:
@@ -18,9 +18,9 @@ This is the first attempt to find a way to simulate loudspeakers (in their relat
 
 ![source](https://raw.githubusercontent.com/grammaton/liquidivolumi/master/YCC-LiquidiVolumi-v02/_DeletedItems/media/SourceA.png)
 
-The concert that stimulate this approach will be done next april 22 on 500 meters of *Tiber* river in Rome with acousmatic music (not mine). In this context will be available up to eight channel of music throught eighr cluster of Loudspeakers.
+The concert that stimulate this approach will be done next april 22 on 500 meters of *Tiber* river in Rome with acousmatic music (not mine). In this context will be available up to eight channel of music throught eight cluster of Loudspeakers.
 
-My vision to simulate half kilometer of space concern sure loudspeakers (cluster of it) but in their space context. Obiuvsly.
+My vision to simulate half a kilometer of electroacoustic space concern sure loudspeakers (cluster of it) but in their space context. Obiuvsly.
 
 I've started a project in *Max 6* whit the idea to simulate a starting point with these sound objects:
 
