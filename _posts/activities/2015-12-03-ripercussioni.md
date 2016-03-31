@@ -18,5 +18,4 @@ image:
 Percussions **Valerio Cosmai**    
 Electronics **Giuseppe Silvi**
 
-
 ---
