@@ -2,7 +2,7 @@
 layout: page
 title: "riPercussioni"
 excerpt: "for Percussions & Spherical Electronics"
-modified:
+modified: 2016-05-20T22:44:42
 tags: [ripercussioni, percussion, live, electronics, electroacoustic]
 categories: works
 comments: true
@@ -17,18 +17,18 @@ image:
 
 ### Note di programma
 
-Quando si prova ad avere il controllo del Tempo la prima considerazione da fare
-è che tentare è ammettere di poter fallire. E fallire non è perdere. Non è
-perdere tempo. Fallire è investire tempo quanto avere successo. Azione. Agire
-ammette il fallimento. Agire è dare al tempo una sua dignità esplorativa.
+*riPercussioni* è un tentativo di indagare il Tempo. È provare ad
+avere il controllo del Tempo, organizzandolo. Indagare, agire in
+Tempo e darsi, col Tempo, dignità esplorativa.
 
-*riPercussioni* è questo. È agire nei confronti del tempo studiando se stessi,
-con se stessi. Investigare il proprio io in relazione al tempo. Ci si accorge
-che la percezione può modellare il tempo. Si può indagare sulla percezione del
-tempo organizzato, organizzato da se stessi, li dove percezione e inesorabilità
-sono la stessa cosa. Indagare se stessi in relazione al tempo organizzato.
-È guardarsi allo specchio nel riascoltare le proprie azioni e, in un tempo
-differito, vedere se stessi.
+*riPercussioni* è agire nei confronti del Tempo studiando se
+stessi, con se stessi. Ci si può accorgere così che la percezione
+può modellare il Tempo, così come il Tempo può modellare la
+percezione. Investigare le proprie percezioni in relazione al
+Tempo organizzato, li dove percezione e inesorabilità
+diventano la stessa cosa.
+
+*riPercussioni* è guardarsi nello specchio del Tempo.
 
 ### list of performances
 
