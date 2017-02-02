@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "Suona Italiano, live in BIRMINGHAM"
-excerpt: "Enzo Filippetti plays A. Sax. @ Birmingham Conservatoire"
-modified: 
-tags: [asax, enzo, filippetti]
+title: "Suona Italiano @ Birmingham Conservatoire - UK"
+date: 2014-12-02 23:23:23 +0100
 categories: activity
+
+modified:
+excerpt: "Enzo Filippetti plays A. Sax. @ Birmingham Conservatoire"
+tags: [asax, enzo, filippetti]
 comments: true
-image:
-  feature: 
-  credit: 
-  creditlink: 
 ---
 
 ### 2014 Dicember, 02
@@ -19,7 +17,7 @@ image:
 ![Live at Birmingham Conservatoire]({{ site.url }}/images/20141202/gs_IMG_2749_birm.jpeg)
 <figcaption>
   Giuseppe Silvi, Enzo Filippetti - Rehearsal @ Birmingham Conservatoire.
-</figcaption> 
+</figcaption>
 
 **encouragement**  |ɪnˈkʌrɪʤm(ə)nt|    
 noun [ mass noun ]    

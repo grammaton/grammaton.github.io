@@ -1,16 +1,13 @@
 ---
 layout: post
-title: "Acoustic S.T.ONE"
-excerpt: "omnidirectional points of listenings @ EMUFest 2015"
-modified: 2015-11-10T01:00:28
-tags: [stone, omnidirectional, loudspeaker]
+title: "Acoustic S.T.ONE @ EMUFest 2015"
+date:   2015-10-05 23:23:23 +0100
 categories: activity
-activitiesid: 20151005acousticstone
+
+modified: 2015-11-10T01:00:28
+excerpt: "omnidirectional points of listenings @ EMUFest 2015"
+tags: [stone, omnidirectional, loudspeaker]
 comments: true
-image:
-  feature: 
-  credit: 
-  creditlink: 
 ---
 
 Flute **Elena D'Alò**    
@@ -38,7 +35,7 @@ The TETRAREC technique was developed to achieve the following objectives:
  6. Analyse data and prototype a graphic visualisation of 3D Sound Shapes
 
 ### Forthcoming Research
- 
+
 The largest corpus of contemporary music for solo instruments is represented by Luciano Berio’s *Sequences*. In this research about recording *Sound Shapes* through the ***TetraREC*** technique while diffusing them by ***S.T.ONE***, where instrument performances are displayed over printed maps which are then used to improve their musical listening, a *Sequenza* could focus the listener’s attention on every nuance of the *Sound Shape*. At the same time reproducing a complex sound object like a musician performing a *Sequenza* (which very often implies a complex panoply of 3D movements) is the best possible research goal for a loudspeaker.
 
 ### acoustic S.T.ONE - Track List
@@ -47,4 +44,3 @@ The largest corpus of contemporary music for solo instruments is represented by 
  - improvvisazione - Bayan - Alessandro Sbordoni
  - *Sequenza IXb* - Luciano Berio - Alto Sax Danilo Perticaro
  - *Suite for toy piano* - John Cage - Toy piano Francesco Ziello
- 
