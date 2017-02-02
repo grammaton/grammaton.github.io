@@ -2,14 +2,13 @@
 layout: default
 ---
 
-<div class="home">
+<h1 class="post-title">LATEST ACTIVITIES</h1>
 
-  <!-- <h1 class="page-heading">Latest:</h1> -->
+<div class="home">
 
   {{ content }}
 
   <ul class="post-list">
-    <h2>Latest activities</h2>
     {% for post in site.categories.activity limit:3 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -20,7 +19,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-  <h1 class="page-heading"><a href="{{ site.url}}/allposts/">Full list of activities…</a></h1>
+  <h1 class="page-heading"><a href="{{ site.url}}/allactivities/">Full list of activities…</a></h1>
 
   <span>
     <center>
@@ -30,8 +29,9 @@ layout: default
     </center>
   </span>
 
+<h1 class="post-title">LATEST BLOG POST</h1>
+
   <ul class="post-list">
-    <h2>Latest blog post</h2>
     {% for post in site.categories.blog limit:1 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
