@@ -1,17 +1,14 @@
 ---
 layout: post
 title: "Mario Bertoncini"
-excerpt: "80th Birthday Celebration @ EMUFest 2012"
-modified: 2015-11-02T16:39:59
-tags: [Bertoncini, Cage, toy, piano, cartridge]
+date: 2012-10-15 23:23:23 +0100
 categories: activity
-photogalsid: bertonciniphotogal
+
+modified: 2015-11-02T16:39:59
+excerpt: "80th Birthday Celebration @ EMUFest 2012"
+tags: [Bertoncini, Cage, toy, piano, cartridge]
 comments: true
-image: 
-  feature: 
-  credit: 
-  creditlink:
- 
+
 ---
 
 ### 2012 October, 9
@@ -27,7 +24,7 @@ EVENTO SPECIALE
  - *Epitaffio in memoria d’un Concerto*, Mario Bertoncini (1968) - 20'
  - *Suite for toy piano*, John Cage (1948) - 8'
  - *Cartridge music*, John Cage (1960) - 18'
- 
+
 Performers:  
 Piano & Toy Piano *Mario Bertoncini*    
 Objects *Federico Scalas*, *Giuseppe Silvi*, *Leonardo Zaccone*
@@ -52,4 +49,3 @@ non dimenticando gli scongiuri di rito...).
 Grazie ancora. Un abbraccio corale a voi tutti!
 >
 MARIO
-

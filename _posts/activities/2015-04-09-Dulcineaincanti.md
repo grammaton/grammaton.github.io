@@ -1,16 +1,13 @@
 ---
 layout: post
-title: "Dulcineaincanti"
-excerpt: "Music for flute, bayan, live electronics and video"
-modified:
-tags: [roberto fabbriciani, alessandro sbordoni, roberto masotti, giuseppe silvi]
+title: "Dulcineaincanti @ FulgorAzioni - Capolona "
+date:   2015-04-09 23:23:23 +0100
 categories: activity
-photogalsid: dulcineaincantiphotogal
+
+modified:
+excerpt: "Music for flute, bayan, live electronics and video"
+tags: [roberto fabbriciani, alessandro sbordoni, roberto masotti, giuseppe silvi]
 comments: true
-image:
-  feature: panos/090415_SilviaLelli_4289.JPG
-  credit: Silvia Lelli
-  creditlink:
 ---
 
 ### 2015 April, 09

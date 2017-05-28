@@ -1,16 +1,13 @@
 ---
 layout: post
-title: "Electric Rags II"
-excerpt: "Alvin Curran - Electric Rags II, for saxophone quartet & live electronics."
-modified: 
-
-tags: [alvin, curran, electric, rags, saxophone, quartet, live, electronics]
+title: "Electric Rags II @ ArteScienza 2015"
+date:   2015-07-06 23:23:23 +0100
 categories: activity
+
+modified:
+excerpt: "Alvin Curran - Electric Rags II, for saxophone quartet & live electronics."
+tags: [alvin, curran, electric, rags, saxophone, quartet, live, electronics]
 comments: true
-image:
-  feature: 
-  credit: 
-  creditlink: 
 ---
 
 ### 2015 July, 06

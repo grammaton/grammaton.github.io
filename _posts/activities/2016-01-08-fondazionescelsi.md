@@ -1,18 +1,13 @@
 ---
 layout: post
-title: "Buon Compleanno Scelsi"
-excerpt: "Fondazione Scelsi, 8 Gennaio 2016, Roma"
-modified: 2015-11-10T20:30:00
-tags: [stone, filippetti, scelsi, nottoli]
+title: "Electroacoustic Concert @ Fondazione Scelsi - Rome"
+date:   2016-01-08 23:23:23 +0100
 categories: activity
-photogalsid:
-activitiesid:
-link:
+
+modified: 2015-11-10T20:30:00
+excerpt: "Fondazione Scelsi, 8 Gennaio 2016, Roma"
+tags: [stone, filippetti, scelsi, nottoli]
 comments: true
-image:
-  feature:
-  credit:
-  creditlink:
 ---
 
 Saxophones **Enzo Filippetti**   

@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "La bocca, i piedi, il suono"
-excerpt: "100 saxophones"
-modified: 
-tags: []
+title: "La bocca, i piedi, il suono @ Galleria Nazionale D'Arte Moderna - Rome"
+date:   2014-12-14 23:23:23 +0100
 categories: activity
+
+modified:
+excerpt: "100 saxophones"
+tags: []
 comments: true
-image:
-  feature: panos/panagnam05_CC_TEXT_resize.jpg
-  credit: 
-  creditlink: 
 ---
 
 ### 2014 December, 14

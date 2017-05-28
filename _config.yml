@@ -1,62 +1,29 @@
-# Site wide configuration
-title: Giuseppe Silvi
-# try to use shorttitle for small window
-shorttitle: Giuseppe
-locale: Europe/Rome
-url: http://giuseppesilvi.com
-extmaterials: https://raw.githubusercontent.com/grammaton/grammaton-materials/master/
+title: GIUSEPPE SILVI
 
-# Jekyll configuration
-permalink: /:categories/:title/
+email: me@giuseppesilvi.com
+
+description: > # Musician
+
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "giuseppesilvi.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+twitter_username: giuseppesilvi
+
+github_username:  grammaton
+
+google_analytics: UA-59367601-3
+
+# Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
 gems:
-  - jekyll-sitemap
+  - jekyll-feed
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
-# Site owner
-owner:
-  name: Giuseppe Silvi
-  avatar: me_reflections.jpg
-  bio: "Electroacoustic Musician"
-  email: me@giuseppesilvi.com
-  disqus-shortname: giuseppesilvi
-  twitter: giuseppesilvi
-  facebook: giuseppe.silvi
-  google:
-    plus:
-    analytics: UA-59367601-3
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: grammaton
-  stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: giuseppesilvi
-  xing: #username
-  instagram: juxy
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: GiuseppeSilvi81
-  soundcloud: giuseppe-silvi
-  weibo: #username
-  flickr: #username
-  codepen: #username
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+info:
+  name: "Giuseppe Silvi"
+  country: Rome
+  state: IT

@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "Decadenze"
-excerpt: "Acousmatic Composition"
-modified: 
-tags: [acousmatic, composition]
+title: "Decadenze @ MAXXI - Rome"
+date: 2014-03-29 23:23:23 +0100
 categories: activity
+
+modified:
+excerpt: "Acousmatic Composition"
+tags: [acousmatic, composition]
 comments: true
-image:
-  feature: 
-  credit: 
-  creditlink: 
 ---
 
 ### 2014 March, 29
@@ -31,10 +29,9 @@ It was premiered at **MAXXI** (*National Museum of XXI Century Arts*) during the
 **Slow Level Experience #01** is an acousmatic composition. Maybe. While I was working on *Decadenze* which is a work I had made from percussion sounds, I have developed a kind of sound processing that generated long sound structures. One of these structures proved to be immediately interesting to me. So in addition to insert a statement in the song for which it was created, I decided to keep it in an autonomous form. [jump](https://soundcloud.com/giuseppe-silvi/slow-level-experience-01)
 
 <iframe
-  width="100%" 
-  height="166" 
-  scrolling="no" 
+  width="100%"
+  height="166"
+  scrolling="no"
   frameborder="no"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/141828746&amp;color=baff1e&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true">
 </iframe>
-

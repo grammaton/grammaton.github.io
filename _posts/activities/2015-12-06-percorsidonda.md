@@ -1,18 +1,13 @@
 ---
 layout: post
-title: "Percorsi D'Onda"
-excerpt: "Voice, flutes, piano, electronics & teapot."
-modified: 2015-12-06T18:00:00
-tags: [concert]
+title: "Percorsi D'Onda @ Palazzo Sforza Cesarini - Genzano"
+date:   2015-12-06 23:23:23 +0100
 categories: activity
-photogalsid:
-activitiesid:
-link:
+
+modified: 2015-12-06T18:00:00
+excerpt: "Voice, flutes, piano, electronics & teapot."
+tags: [concert]
 comments: true
-image:
-  feature: panos/20161206-percorsi.jpg
-  credit:
-  creditlink:
 ---
 
 Voice **Giovanna Manci**    
@@ -33,13 +28,9 @@ Electronics **Massimo Massimi, Giuseppe Silvi**
 
 Audience on Lucier's *I'm sitting…*
 
----
-
 ![AZZIGOTTI]({{ site.url }}/images/20151206/IMG_0471.jpg)
 
 Flutist D'Alò and Pace on Luciano Azzigotti's *Vilanos*
-
----
 
 ![LUCIER]({{ site.url }}/images/20151206/IMG_0480.jpg)
 

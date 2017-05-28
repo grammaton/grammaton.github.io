@@ -1,71 +1,48 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
-{% include _head.html %}
-</head>
+---
+layout: default
+---
 
-<body class="home">
+<h1 class="post-title">ACTIVITIES</h1>
 
-{% include _browser-upgrade.html %}
+<div class="home">
 
-{% include _navigation.html %}
+  {{ content }}
 
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
-{% endif %}
+  <ul class="post-list">
+    {% for post in site.categories.activity limit:3 %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-<div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div>
-  <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Activities</a></h3>
-    {% for post in site.categories.activity limit:5 %} 
-    <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
-      {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+        <!-- <span class="post-meta">{{ post.excerpt }}</span> -->
+      </li>
+
     {% endfor %}
-  
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-    {% for post in site.categories.blog limit:5 %} 
-    <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
-      {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
+  </ul>
+  <h1 class="page-heading"><a href="{{ site.url}}/allactivities/">Full list of activities…</a></h1>
+
+  <span>
+    <center>
+      <h1>
+        * * *
+      </h1>
+    </center>
+  </span>
+
+<h1 class="post-title">LATEST BLOG POST</h1>
+
+  <ul class="post-list">
+    {% for post in site.categories.blog limit:1 %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
     {% endfor %}
-  </div><!-- /#index -->
-</div><!-- /#main -->
-
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
-
-{% include _scripts.html %}
-
-</body>
-</html>
+  </ul>
+  <h1 class="page-heading"><a href="{{ site.url}}/allposts/">Other blog posts…</a></h1>
+</div>

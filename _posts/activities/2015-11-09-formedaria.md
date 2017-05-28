@@ -1,18 +1,13 @@
 ---
 layout: post
-title: "Forme D'Aria"
-excerpt: "flutes, bayan & electronics improvisation @ Teatro Ca' Foscari, Venezia"
-modified: 2015-11-10T01:00:28
-tags: [stone, omnidirectional, loudspeaker]
+title: "Forme D'Aria @ Università Ca' Foscari - Venezia"
+date:   2015-11-09 23:23:23 +0100
 categories: activity
-photogalsid: formedariaphotogal
-activitiesid: 20151118formedaria
-link: http://www.unive.it/nqcontent.cfm?a_id=196378
+
+modified: 2015-11-10T01:00:28
+excerpt: "flutes, bayan & electronics improvisation @ Teatro Ca' Foscari, Venezia"
+tags: [stone, omnidirectional, loudspeaker]
 comments: true
-image:
-  feature:
-  credit:
-  creditlink:
 ---
 
 ![Forme D'Aria]({{ site.url }}/images/panos/090415_SilviaLelli_4289.JPG)
