@@ -14,7 +14,7 @@ github_username:  grammaton
 
 google_analytics: UA-59367601-3
 
-disqus-shortname: giuseppesilvi
+disqus_shortname: giuseppesilvi
 
 # Build settings
 markdown: kramdown
