@@ -122,7 +122,13 @@
   margin-bottom: $spacing-unit / 2;
 }
 
-.contact-list,
+.contact-list {
+  list-style: none;
+  //margin-left: 0;
+  text-align: right;
+  list-style-position: inside;
+}
+
 .social-media-list {
   list-style: none;
   margin-left: 0;
