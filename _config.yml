@@ -20,6 +20,11 @@ disqus_shortname: giuseppesilvi
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-extlinks
+
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
+  rel_exclude: ['giuseppesilvi.com']
 
 exclude:
   - Gemfile
