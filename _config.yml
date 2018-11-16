@@ -2,7 +2,7 @@ title: GIUSEPPE SILVI
 
 email: me@giuseppesilvi.com
 
-description: > # Musician
+description: > #Musician
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
@@ -18,7 +18,7 @@ disqus_shortname: giuseppesilvi
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
 
 exclude:

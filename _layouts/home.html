@@ -9,7 +9,7 @@ layout: default
   {{ content }}
 
   <ul class="post-list">
-    {% for post in site.categories.activity limit:3 %}
+    {% for post in site.categories.activity limit:2 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -34,7 +34,7 @@ layout: default
 <h1 class="post-title">LATEST BLOG POST</h1>
 
   <ul class="post-list">
-    {% for post in site.categories.blog limit:1 %}
+    {% for post in site.categories.blog limit:2 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -44,5 +44,5 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-  <h1 class="page-heading"><a href="{{ site.url}}/allposts/">Other blog posts…</a></h1>
+  <h1 class="page-heading"><a href="/allposts/">Other blog posts…</a></h1>
 </div>
