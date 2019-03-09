@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "Electroacoustic Concert @ Fondazione Scelsi - Rome"
-date:   2016-01-08 23:23:23 +0100
+layout: default
+title: "Electroacoustic Concert"
+place: Fondazione Scelsi - Rome
+date: 2016-01-08 23:23:23 +0100
 categories: activity
-
 modified: 2015-11-10T20:30:00
-excerpt: "Fondazione Scelsi, 8 Gennaio 2016, Roma"
+excerpt: "saxophones & electronics"
 tags: [stone, filippetti, scelsi, nottoli]
 comments: true
 ---

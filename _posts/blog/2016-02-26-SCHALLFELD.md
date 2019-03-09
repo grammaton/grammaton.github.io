@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "SCHALLFELD ENSEMBLE"
 excerpt: "Concero del 26 febbraio 2016 @ Conservatorio S. Cecilia"
 modified: 2016-03-02T00:16:41

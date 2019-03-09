@@ -1,6 +1,7 @@
 ---
-layout: post
-title: "La bocca, i piedi, il suono @ Galleria Nazionale D'Arte Moderna - Rome"
+layout: default
+title: "La bocca, i piedi, il suono"
+place:  Galleria Nazionale D'Arte Moderna - Rome
 date:   2014-12-14 23:23:23 +0100
 categories: activity
 

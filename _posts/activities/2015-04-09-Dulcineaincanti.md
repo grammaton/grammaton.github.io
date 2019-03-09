@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Dulcineaincanti @ FulgorAzioni - Capolona "
+layout: default
+title: "Dulcineaincanti"
+place:  Fulgor - Capolona
 date:   2015-04-09 23:23:23 +0100
 categories: activity
 
 modified:
-excerpt: "Music for flute, bayan, live electronics and video"
+excerpt: "flutes, bayan, live electronics & video. FulgorAzioni."
 tags: [roberto fabbriciani, alessandro sbordoni, roberto masotti, giuseppe silvi]
 comments: true
 ---

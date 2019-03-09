@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "Electric Rags II @ ArteScienza 2015"
+layout: default
+title: "Alvin Curran - Electric Rags II"
+place: Accademia Filarmonica Romana
 date:   2015-07-06 23:23:23 +0100
 categories: activity
-
 modified:
-excerpt: "Alvin Curran - Electric Rags II, for saxophone quartet & live electronics."
+excerpt: "for saxophone quartet & live electronics. ArteScienza 2015"
 tags: [alvin, curran, electric, rags, saxophone, quartet, live, electronics]
 comments: true
 ---

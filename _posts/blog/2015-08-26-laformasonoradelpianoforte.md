@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "La forma sonora del pianoforte"
 excerpt: "Sound Shape of piano. Electroacoustic lesson during Roberto Prosseda piano Masterclass"
 modified: 

@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "Music for Piano with Slow Sweep Pure Wave Oscillators @ Museum of Contemporary Art of Teramo"
+layout: default
+title: "Music for Piano with Slow Sweep Pure Wave Oscillators"
+place: Museum of Contemporary Art of Teramo
 date: 2012-11-17 23:23:23 +0100
 categories: activity
-
 modified:
-excerpt: "Alvin Lucier, Music for Piano with Slow Sweep Pure Wave Oscillators @ Museum of Contemporary Art of Teramo"
+excerpt: "Alvin Lucier, Music for Piano with Slow Sweep Pure Wave Oscillators"
 tags: [alvin lucier, rossella rubini, sweep]
 comments: true
 ---

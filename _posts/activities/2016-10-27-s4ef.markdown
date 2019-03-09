@@ -1,11 +1,13 @@
 ---
-layout: post
-title:  "S4EF - Alto Sax, Windback & S.T.ONE @ Aumentazioni, Salerno"
-date:   2016-10-06 21:22:23 +0100
-categories: stone concert
+layout: default
+title: "S4EF - EMUFest 2016 "
+place: Conservatorio di Musica S. Cecilia - Rome
+date:   2016-10-27 21:22:23 +0100
+categories: activity
+excerpt: "Alto Sax, Windback & S.T.ONE"
+tags: [stone, omnidirectional, loudspeaker, windback, saxophone]
+comments: true
 ---
-
-
 
 <ul id="gallery">
 	<li>

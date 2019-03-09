@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "Acoustic S.T.ONE @ EMUFest 2015"
+layout: default
+title: "Acoustic S.T.ONE - EMUFest 2015"
+place: Conservatorio S. Cecilia - Rome
 date:   2015-10-05 23:23:23 +0100
 categories: activity
-
 modified: 2015-11-10T01:00:28
-excerpt: "omnidirectional points of listenings @ EMUFest 2015"
+excerpt: "omnidirectional points of listenings"
 tags: [stone, omnidirectional, loudspeaker]
 comments: true
 ---

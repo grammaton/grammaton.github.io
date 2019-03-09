@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Surround Journey II"
 excerpt: "Surround Microphones Technique Compared"
 modified: 

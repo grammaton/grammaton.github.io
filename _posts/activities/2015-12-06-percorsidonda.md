@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "Percorsi D'Onda @ Palazzo Sforza Cesarini - Genzano"
-date:   2015-12-06 23:23:23 +0100
+layout: default
+title: "Percorsi D'Onda"
+place: Palazzo Sforza Cesarini - Genzano
+date: 2015-12-06 23:23:23 +0100
 categories: activity
-
 modified: 2015-12-06T18:00:00
-excerpt: "Voice, flutes, piano, electronics & teapot."
+excerpt: "voice, flutes, piano, electronics & teapot"
 tags: [concert]
 comments: true
 ---

@@ -1,36 +1,24 @@
-title: GIUSEPPE SILVI
+title: Giuseppe Silvi
+url: "http://giuseppesilvi.com"
+baseurl: ""
 
-email: me@giuseppesilvi.com
-
-description: > #Musician
-
-baseurl: "" # the subpath of your site, e.g. /blog
-
-url: "giuseppesilvi.com" # the base hostname & protocol for your site, e.g. http://example.com
-
-twitter_username: giuseppesilvi
-
-github_username:  grammaton
-
-google_analytics: UA-59367601-3
-
-disqus_shortname: giuseppesilvi
-
-# Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-extlinks
+#ins_logo: "./bits-logo.png"
 
-extlinks:
-  attributes: {rel: nofollow, target: _blank}
-  rel_exclude: ['giuseppesilvi.com']
+tracking_id: #
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
+footer: yes
+footer_url: "https://github.com/grammaton"
+footer_text: "Giuseppe Silvi"
 
-info:
-  name: "Giuseppe Silvi"
-  country: Rome
-  state: IT
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Home"
+   link: "/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"

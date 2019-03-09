@@ -1,6 +1,7 @@
 ---
-layout: post
-title: "Suona Italiano @ Birmingham Conservatoire - UK"
+layout: default
+title: "Suona Italiano"
+place:  Birmingham Conservatoire - UK
 date: 2014-12-02 23:23:23 +0100
 categories: activity
 

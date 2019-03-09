@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Liquidi Volumi ep.ONE"
 excerpt: "a way to simulate large electroacoustic concert space"
 modified: 2016-03-30T05:34:11

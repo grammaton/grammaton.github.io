@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Lente Sonora @ Sala Petrolini - Castel Gandolfo"
+layout: default
+title: "Lente Sonora"
+place:  Sala Petrolini - Castel Gandolfo
 date:   2015-06-27 23:23:23 +0100
 categories: activity
-
 modified:
 excerpt: "Suonare la musica oggi - Electroacoustic Interpretation Workshop"
 tags: [electroacoustic, interpretation, workshop]

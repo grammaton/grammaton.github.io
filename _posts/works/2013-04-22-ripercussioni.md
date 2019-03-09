@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "riPercussioni"
 excerpt: "for Percussions & Spherical Electronics"
 modified: 2016-05-20T22:44:42

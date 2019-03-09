@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: default
 title: "Mario Bertoncini"
+place: Conservatorio S. Cecilia - Rome
 date: 2012-10-15 23:23:23 +0100
 categories: activity
 

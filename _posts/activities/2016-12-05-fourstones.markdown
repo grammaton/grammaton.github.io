@@ -1,8 +1,12 @@
 ---
-layout: post
-title:  "Quattro S.T.ONE @ Accademia Filarmonica Romana"
-date:   2016-11-24 23:23:23 +0100
-categories: stone concert
+layout: default
+title: "Appunti sul marmo"
+place: Conservaotrio S. Cecilia - Rome
+date:   2016-12-05 21:22:23 +0100
+categories: activity
+excerpt: "sopran sax & S.T.ONE"
+tags: [stone, omnidirectional, loudspeaker, windback, saxophone]
+comments: true
 ---
 
 *Appunti sul marmo*, brano elettroacustico di Marco De Martino, in programma il

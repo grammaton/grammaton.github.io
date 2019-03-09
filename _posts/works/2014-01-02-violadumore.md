@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "VIOLA D'UMORE"
 excerpt: "for Viola & Electronics"
 modified:

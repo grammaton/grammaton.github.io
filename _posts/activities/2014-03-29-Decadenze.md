@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Decadenze @ MAXXI - Rome"
+layout: default
+title: "Decadenze"
+place: MAXXI - Rome
 date: 2014-03-29 23:23:23 +0100
 categories: activity
-
 modified:
 excerpt: "Acousmatic Composition"
 tags: [acousmatic, composition]

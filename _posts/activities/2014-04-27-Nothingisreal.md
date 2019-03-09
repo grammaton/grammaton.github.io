@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Nothing is Real @ Auditorium Parco della Musica - Rome"
+layout: default
+title: "Nothing is Real"
+place: Auditorium Parco della Musica - Rome
 date: 2014-04-27 23:23:23 +0100
 categories: activity
 
 modified:
-excerpt: "Alvin Lucier, Nothing is Real (Strawberry Fields) @ Teatro Studio - Auditorium Parco della Musica, Roma"
+excerpt: "Alvin Lucier, Nothing is Real (Strawberry Fields)"
 tags: [alvin lucier, francesco ziello, strawberry fields]
 comments: true
 ---

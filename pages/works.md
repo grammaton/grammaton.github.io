@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "WORKS"
 subtitle:
 description: "vivere è stare svegli. (A. M. Ripellino)"
