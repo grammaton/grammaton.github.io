@@ -30,7 +30,7 @@ image:
 Piano Masterclass Mº **Roberto Prosseda**    
 Electroacoustics lesson **Elena D'Alò, Giuseppe Silvi**
 
-<!-- ![foto installazione]({{ site.url }}/images/20150826/IMG_2067.JPG) -->
+<!-- ![foto installazione]({{ site.extmaterials }}/photos/20150826/IMG_2067.JPG) -->
 <!-- {: .image-pull-right} -->
 
 ## TetraREC
@@ -58,19 +58,19 @@ Switching from an ***LF*** image to others you can describe the *Sound Shape* of
 
 **LF - *left front***
 
-![scala LF]({{ site.url }}/images/20150826/scala_cromatica_LF.png)
+![scala LF]({{ site.extmaterials }}/photos/20150826/scala_cromatica_LF.png)
 
 **RF - *right front***
 
-![scala RF]({{ site.url }}/images/20150826/scala_cromatica_RF.png)
+![scala RF]({{ site.extmaterials }}/photos/20150826/scala_cromatica_RF.png)
 
 **LB - *left back***
 
-![scala LB]({{ site.url }}/images/20150826/scala_cromatica_LB.png)
+![scala LB]({{ site.extmaterials }}/photos/20150826/scala_cromatica_LB.png)
 
 **RB - *right back***
 
-![scala RB]({{ site.url }}/images/20150826/scala_cromatica_RB.png)
+![scala RB]({{ site.extmaterials }}/photos/20150826/scala_cromatica_RB.png)
 
 ----
 
@@ -78,19 +78,19 @@ Switching from an ***LF*** image to others you can describe the *Sound Shape* of
 
 **LF - *left front***
 
-![dinamica LF]({{ site.url }}/images/20150826/ppp-fff-ppp_LF.png)
+![dinamica LF]({{ site.extmaterials }}/photos/20150826/ppp-fff-ppp_LF.png)
 
 **RF - *right front***
 
-![dinamica RF]({{ site.url }}/images/20150826/ppp-fff-ppp_RF.png)
+![dinamica RF]({{ site.extmaterials }}/photos/20150826/ppp-fff-ppp_RF.png)
 
 **LB - *left back***
 
-![dinamica LB]({{ site.url }}/images/20150826/ppp-fff-ppp_LB.png)
+![dinamica LB]({{ site.extmaterials }}/photos/20150826/ppp-fff-ppp_LB.png)
 
 **RB - *right back***
 
-![dinamica RB]({{ site.url }}/images/20150826/ppp-fff-ppp_RB.png)
+![dinamica RB]({{ site.extmaterials }}/photos/20150826/ppp-fff-ppp_RB.png)
 
 ----
 
@@ -98,19 +98,19 @@ Switching from an ***LF*** image to others you can describe the *Sound Shape* of
 
 **LF - *left front***
 
-![attacchi LF]({{ site.url }}/images/20150826/attacchi_LF.png)    
+![attacchi LF]({{ site.extmaterials }}/photos/20150826/attacchi_LF.png)    
 
 **RF - *right front***
 
-![attacchi RF]({{ site.url }}/images/20150826/attacchi_RF.png)   
+![attacchi RF]({{ site.extmaterials }}/photos/20150826/attacchi_RF.png)   
 
 **LB - *left back***
 
-![attacchi LB]({{ site.url }}/images/20150826/attacchi_LB.png)   
+![attacchi LB]({{ site.extmaterials }}/photos/20150826/attacchi_LB.png)   
 
 **RB - *right back***
 
-![attacchi RB]({{ site.url }}/images/20150826/attacchi_RB.png)
+![attacchi RB]({{ site.extmaterials }}/photos/20150826/attacchi_RB.png)
 
 ----
 
@@ -118,19 +118,19 @@ Switching from an ***LF*** image to others you can describe the *Sound Shape* of
 
 **LF - *left front***
 
-![vibrato LF]({{ site.url }}/images/20150826/vibrato_LF.png)
+![vibrato LF]({{ site.extmaterials }}/photos/20150826/vibrato_LF.png)
 
 **RF - *right front***
 
-![vibrato RF]({{ site.url }}/images/20150826/vibrato_RF.png)
+![vibrato RF]({{ site.extmaterials }}/photos/20150826/vibrato_RF.png)
 
 **LB - *left back***
 
-![vibrato LB]({{ site.url }}/images/20150826/vibrato_LB.png)
+![vibrato LB]({{ site.extmaterials }}/photos/20150826/vibrato_LB.png)
 
 **RB - *right back***
 
-![vibrato RB]({{ site.url }}/images/20150826/vibrato_RB.png)
+![vibrato RB]({{ site.extmaterials }}/photos/20150826/vibrato_RB.png)
 
 ----
 

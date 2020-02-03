@@ -16,7 +16,7 @@ Electronics **Giuseppe Silvi**
 The ***S.T.ONE*** project grew up from the need of an electroacoustic environment in which acoustical and electronic instruments have the same impact on listeners. The first stage of development  involved a spherical sound diffusion technique of acousmatic music  (exposed during *EMUFest 2014*) while a research path concerning the *Sound Shape* of traditional instruments was taking place. *Sound Shape* is the perceived shape of an acoustic object. During  the recording of *13 Degrees of Darkness* (Alvin Lucier, 2013, for flute and pre-recorded flute, italian premiere during EMUFest 2014) the ***TetraREC*** technique, for *Sound Diffusion* recording of acoustical instruments, was developed.
 Through ***acoustic S.T.ONE*** it is possible to read about state of the art research and to listen to instruments which are  both recorded and analysed to describe their *Sound Diffusion*.
 
-![13 Degrees, Elena D'Alò Flute, TetraREC]({{ site.url }}/images/20151005/ED01_tetrarec_lucier13degrees_CG_T.jpeg)    
+![13 Degrees, Elena D'Alò Flute, TetraREC]({{ site.extmaterials }}/photos/20151005/ED01_tetrarec_lucier13degrees_CG_T.jpeg)    
 <!-- first TETRAREC session - september 25, 2014. Alvin Lucier, 13 Degrees of Darkness. Elena D’Alò, flute. -->
 
 ## TetraREC

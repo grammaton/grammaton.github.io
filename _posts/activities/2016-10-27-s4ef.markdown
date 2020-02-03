@@ -11,11 +11,11 @@ categories: stone concert
 	<li>
 		<!--[if gte IE 9]><!--><a href="#pic-1"><!--<![endif]-->
 		<!--[if lte IE 8]><a href="/userfiles/images/portfolio/web-templates/big/fastedit.png" target="_blank"><![endif]-->
-			<img src="{{ site.url }}/images/photos/02_Taglio.jpg" width="252" height="160" alt="" />
+			<img src="{{ site.extmaterials }}/photos/photos/02_Taglio.jpg" width="252" height="160" alt="" />
 			<span><b>Preview</b></span>
 		</a>
 		<div id="pic-1" class="overlay">
-			<img src="{{ site.url }}/images/photos/02_Taglio.jpg" alt="" /> <!-- no size attributes - keep it responsive -->
+			<img src="{{ site.extmaterials }}/photos/photos/02_Taglio.jpg" alt="" /> <!-- no size attributes - keep it responsive -->
 			<div>
 				<p>Foto di esempio</p>
 			</div>
@@ -27,11 +27,11 @@ categories: stone concert
   <li>
 		<!--[if gte IE 9]><!--><a href="#pic-1"><!--<![endif]-->
 		<!--[if lte IE 8]><a href="/userfiles/images/portfolio/web-templates/big/fastedit.png" target="_blank"><![endif]-->
-			<img src="{{ site.url }}/images/photos/02_Taglio.jpg" width="252" height="160" alt="" />
+			<img src="{{ site.extmaterials }}/photos/photos/02_Taglio.jpg" width="252" height="160" alt="" />
 			<span><b>Preview</b></span>
 		</a>
 		<div id="pic-1" class="overlay">
-			<img src="{{ site.url }}/images/photos/02_Taglio.jpg" alt="" /> <!-- no size attributes - keep it responsive -->
+			<img src="{{ site.extmaterials }}/photos/photos/02_Taglio.jpg" alt="" /> <!-- no size attributes - keep it responsive -->
 			<div>
 				<p>Foto di esempio</p>
 			</div>
@@ -43,11 +43,11 @@ categories: stone concert
   <li>
 		<!--[if gte IE 9]><!--><a href="#pic-1"><!--<![endif]-->
 		<!--[if lte IE 8]><a href="/userfiles/images/portfolio/web-templates/big/fastedit.png" target="_blank"><![endif]-->
-			<img src="{{ site.url }}/images/photos/02_Taglio.jpg" width="252" height="160" alt="" />
+			<img src="{{ site.extmaterials }}/photos/photos/02_Taglio.jpg" width="252" height="160" alt="" />
 			<span><b>Preview</b></span>
 		</a>
 		<div id="pic-1" class="overlay">
-			<img src="{{ site.url }}/images/photos/02_Taglio.jpg" alt="" /> <!-- no size attributes - keep it responsive -->
+			<img src="{{ site.extmaterials }}/photos/photos/02_Taglio.jpg" alt="" /> <!-- no size attributes - keep it responsive -->
 			<div>
 				<p>Foto di esempio</p>
 			</div>
@@ -59,11 +59,11 @@ categories: stone concert
   <li>
 		<!--[if gte IE 9]><!--><a href="#pic-1"><!--<![endif]-->
 		<!--[if lte IE 8]><a href="/userfiles/images/portfolio/web-templates/big/fastedit.png" target="_blank"><![endif]-->
-			<img src="{{ site.url }}/images/photos/02_Taglio.jpg" width="252" height="160" alt="" />
+			<img src="{{ site.extmaterials }}/photos/photos/02_Taglio.jpg" width="252" height="160" alt="" />
 			<span><b>Preview</b></span>
 		</a>
 		<div id="pic-1" class="overlay">
-			<img src="{{ site.url }}/images/photos/02_Taglio.jpg" alt="" /> <!-- no size attributes - keep it responsive -->
+			<img src="{{ site.extmaterials }}/photos/photos/02_Taglio.jpg" alt="" /> <!-- no size attributes - keep it responsive -->
 			<div>
 				<p>Foto di esempio</p>
 			</div>
@@ -75,11 +75,11 @@ categories: stone concert
   <li>
 		<!--[if gte IE 9]><!--><a href="#pic-1"><!--<![endif]-->
 		<!--[if lte IE 8]><a href="/userfiles/images/portfolio/web-templates/big/fastedit.png" target="_blank"><![endif]-->
-			<img src="{{ site.url }}/images/photos/02_Taglio.jpg" width="252" height="160" alt="" />
+			<img src="{{ site.extmaterials }}/photos/photos/02_Taglio.jpg" width="252" height="160" alt="" />
 			<span><b>Preview</b></span>
 		</a>
 		<div id="pic-1" class="overlay">
-			<img src="{{ site.url }}/images/photos/02_Taglio.jpg" alt="" /> <!-- no size attributes - keep it responsive -->
+			<img src="{{ site.extmaterials }}/photos/photos/02_Taglio.jpg" alt="" /> <!-- no size attributes - keep it responsive -->
 			<div>
 				<p>Foto di esempio</p>
 			</div>
@@ -91,11 +91,11 @@ categories: stone concert
   <li>
 		<!--[if gte IE 9]><!--><a href="#pic-1"><!--<![endif]-->
 		<!--[if lte IE 8]><a href="/userfiles/images/portfolio/web-templates/big/fastedit.png" target="_blank"><![endif]-->
-			<img src="{{ site.url }}/images/photos/02_Taglio.jpg" width="252" height="160" alt="" />
+			<img src="{{ site.extmaterials }}/photos/photos/02_Taglio.jpg" width="252" height="160" alt="" />
 			<span><b>Preview</b></span>
 		</a>
 		<div id="pic-1" class="overlay">
-			<img src="{{ site.url }}/images/photos/02_Taglio.jpg" alt="" /> <!-- no size attributes - keep it responsive -->
+			<img src="{{ site.extmaterials }}/photos/photos/02_Taglio.jpg" alt="" /> <!-- no size attributes - keep it responsive -->
 			<div>
 				<p>Foto di esempio</p>
 			</div>

@@ -14,7 +14,7 @@ comments: true
 
 **A. SAX.** Live at *Birmingham Conservatoire* for **SUONA ITALIANO**
 
-![Live at Birmingham Conservatoire]({{ site.url }}/images/20141202/gs_IMG_2749_birm.jpeg)
+![Live at Birmingham Conservatoire]({{ site.extmaterials }}/photos/20141202/gs_IMG_2749_birm.jpeg)
 <figcaption>
   Giuseppe Silvi, Enzo Filippetti - Rehearsal @ Birmingham Conservatoire.
 </figcaption>
@@ -26,4 +26,4 @@ the action of giving someone support, confidence, or hope: *thank you for all yo
 • the act of trying to stimulate the development of an activity, state, or belief: *the encouragement of foreign investment.*
 {: .notice}
 
-![todo es posible]({{ site.url }}/images/20141202/DSC3337.jpg)
+![todo es posible]({{ site.extmaterials }}/photos/20141202/DSC3337.jpg)

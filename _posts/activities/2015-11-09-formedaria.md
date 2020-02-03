@@ -10,7 +10,7 @@ tags: [stone, omnidirectional, loudspeaker]
 comments: true
 ---
 
-![Forme D'Aria]({{ site.url }}/images/panos/090415_SilviaLelli_4289.JPG)
+![Forme D'Aria]({{ site.extmaterials }}/photos/panos/090415_SilviaLelli_4289.JPG)
 
 Flutes **Roberto Fabbriciani**    
 Bayan **Alessandro Sbordoni**    

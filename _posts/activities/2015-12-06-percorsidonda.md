@@ -24,16 +24,16 @@ Electronics **Massimo Massimi, Giuseppe Silvi**
  - Bruno Maderna - *Dialodia*
  - Massimo Massimi - *Kronos in fabula n 2*
 
-![LUCIER]({{ site.url }}/images/20151206/IMG_0470.jpg)
+![LUCIER]({{ site.extmaterials }}/photos/20151206/IMG_0470.jpg)
 
 Audience on Lucier's *I'm sitting…*
 
-![AZZIGOTTI]({{ site.url }}/images/20151206/IMG_0471.jpg)
+![AZZIGOTTI]({{ site.extmaterials }}/photos/20151206/IMG_0471.jpg)
 
 Flutist D'Alò and Pace on Luciano Azzigotti's *Vilanos*
 
-![LUCIER]({{ site.url }}/images/20151206/IMG_0480.jpg)
+![LUCIER]({{ site.extmaterials }}/photos/20151206/IMG_0480.jpg)
 
 Ziello on Lucier's *Nothing is Real*
 
-![LUCIER]({{ site.url }}/images/20151206/IMG_0482.jpg)
+![LUCIER]({{ site.extmaterials }}/photos/20151206/IMG_0482.jpg)
